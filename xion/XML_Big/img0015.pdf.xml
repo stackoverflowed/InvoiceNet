@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="ABBYY FineReader Engine 12" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="2556" height="3504" resolution="300" originalCoords="1">
+<block blockType="Picture" blockName="" l="786" t="221" r="975" b="356"><region><rect l="786" t="221" r="975" b="356"/></region>
+</block>
+<block blockType="Table" blockName="" l="1686" t="524" r="2333" b="678"><region><rect l="1686" t="524" r="2333" b="678"/></region>
+<row>
+<cell width="307" height="71">
+<text>
+<par align="Center" lineSpacing="1150">
+<line baseline="581" l="1784" t="551" r="1902" b="581"><formatting lang="EnglishUnitedStates">DATE&#xA;</formatting></line></par>
+</text></cell>
+<cell width="340" height="71">
+<text>
+<par align="Center" lineSpacing="1150">
+<line baseline="582" l="2072" t="551" r="2255" b="582"><formatting lang="EnglishUnitedStates">INVOICE&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell width="307" height="83">
+<text>
+<par startIndent="1400" lineSpacing="1150">
+<line baseline="660" l="1748" t="629" r="1943" b="660"><formatting lang="EnglishUnitedStates">14.03.2008&#xA;</formatting></line></par>
+</text></cell>
+<cell width="340" height="83">
+<text>
+<par align="Center" lineSpacing="1150">
+<line baseline="662" l="2087" t="630" r="2241" b="662"><formatting lang="EnglishUnitedStates">ITOS 110&#xA;</formatting></line></par>
+</text></cell></row>
+</block>
+<block blockType="Text" blockName="" l="368" t="762" r="1151" b="1151"><region><rect l="368" t="762" r="1151" b="1151"/></region>
+<text>
+<par lineSpacing="1150">
+<line baseline="800" l="374" t="768" r="1151" b="815"><formatting lang="EnglishUnitedStates">BILL TO&#xA;</formatting></line></par>
+<par leftIndent="14700" lineSpacing="1150">
+<line baseline="926" l="978" t="894" r="1145" b="926"><formatting lang="EnglishUnitedStates">.L CLUB&#xA;</formatting></line></par>
+<par leftIndent="7000" lineSpacing="1150">
+<line baseline="993" l="657" t="962" r="1085" b="993"><formatting lang="EnglishUnitedStates">371 &apos; Merah&#xA;</formatting></line></par>
+<par leftIndent="8600" lineSpacing="1150">
+<line baseline="1064" l="723" t="1031" r="1019" b="1064"><formatting lang="EnglishUnitedStates">#05. -&#xA;</formatting></line></par>
+<par leftIndent="8200" lineSpacing="1150">
+<line baseline="1134" l="708" t="1100" r="935" b="1145"><formatting lang="EnglishUnitedStates">Singapore k&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Table" blockName="" l="360" t="1274" r="2330" b="2462"><region><rect l="360" t="1274" r="2330" b="2462"/></region>
+<row>
+<cell colSpan="2" width="1629" height="72">
+<text>
+<par align="Center" lineSpacing="1150">
+<line baseline="1332" l="1034" t="1301" r="1316" b="1334"><formatting lang="EnglishUnitedStates">DESCRIPTION&#xA;</formatting></line></par>
+</text></cell>
+<cell colSpan="2" width="341" height="72">
+<text>
+<par align="Center" lineSpacing="1150">
+<line baseline="1335" l="2061" t="1304" r="2259" b="1337"><formatting lang="EnglishUnitedStates">AMOUNT&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell rightBorder="White" bottomBorder="White" width="1325" height="492">
+<text>
+<par startIndent="2700" lineSpacing="1150">
+<line baseline="1472" l="492" t="1439" r="1332" b="1484"><formatting lang="EnglishUnitedStates">Being tax fee for the Year of Assessment 2008.&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" bottomBorder="White" width="304" height="492">
+<text>
+<par leftIndent="1800" lineSpacing="1150"></par>
+</text></cell>
+<cell rightBorder="White" bottomBorder="White" width="59" height="492">
+<text>
+<par align="Right" lineSpacing="1150">
+<line baseline="1478" l="2013" t="1442" r="2033" b="1478"><formatting lang="EnglishUnitedStates">$&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" bottomBorder="White" width="282" height="492">
+<text>
+<par startIndent="2300" lineSpacing="1150">
+<line baseline="1475" l="2148" t="1443" r="2268" b="1475"><formatting lang="EnglishUnitedStates">500.00&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell topBorder="White" rightBorder="White" width="1325" height="528">
+<text>
+<par startIndent="2700" lineSpacing="1150">
+<line baseline="2234" l="482" t="2201" r="1017" b="2243"><formatting lang="EnglishUnitedStates">S.Dollars; Five hundred only.&#xA;</formatting></line></par>
+<par startIndent="2700" lineSpacing="1150">
+<line baseline="2295" l="480" t="2261" r="765" b="2295"><formatting lang="EnglishUnitedStates">Term : Cash&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" width="304" height="528">
+<text>
+<par leftIndent="1800" lineSpacing="1150"></par>
+</text></cell>
+<cell topBorder="White" rightBorder="White" width="59" height="528">
+<text>
+<par lineSpacing="1150"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" width="282" height="528">
+<text>
+<par leftIndent="2300" lineSpacing="1150"></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" bottomBorder="White" width="1325" height="96">
+<text>
+<par leftIndent="2700" lineSpacing="1150"></par>
+</text></cell>
+<cell width="304" height="96">
+<text>
+<par align="Center" lineSpacing="1150">
+<line baseline="2426" l="1764" t="2393" r="1913" b="2427"><formatting lang="EnglishUnitedStates">TOTAL&#xA;</formatting></line></par>
+</text></cell>
+<cell rightBorder="White" width="59" height="96">
+<text>
+<par align="Right" lineSpacing="1150">
+<line baseline="2430" l="2012" t="2394" r="2033" b="2430"><formatting lang="EnglishUnitedStates">$&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" width="282" height="96">
+<text>
+<par startIndent="2300" lineSpacing="1150">
+<line baseline="2427" l="2147" t="2396" r="2267" b="2427"><formatting lang="EnglishUnitedStates">500.00&#xA;</formatting></line></par>
+</text></cell></row>
+</block>
+<block blockType="Picture" blockName="" l="285" t="2591" r="1575" b="2879"><region><rect l="285" t="2591" r="1575" b="2879"/></region>
+</block>
+<block blockType="Text" blockName="" l="365" t="3132" r="537" b="3174"><region><rect l="365" t="3132" r="537" b="3174"/></region>
+<text>
+<par lineSpacing="1150">
+<line baseline="3168" l="371" t="3138" r="531" b="3168"><formatting lang="EnglishUnitedStates">E.&amp;.O.E.&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="SeparatorsBox" blockName="" l="362" t="739" r="1377" b="1209"><region><rect l="365" t="739" r="1377" b="740"/><rect l="362" t="740" r="1377" b="745"/><rect l="362" t="745" r="1377" b="1205"/><rect l="362" t="1205" r="1377" b="1208"/><rect l="362" t="1208" r="1376" b="1209"/></region>
+<separatorsBox>
+<separator type="Black" thickness="4"><start x="365" y="742"/><end x="1377" y="742"/>
+</separator>
+<separator type="Black" thickness="4"><start x="362" y="1207"/><end x="1376" y="1207"/>
+</separator>
+<separator type="Black" thickness="4"><start x="365" y="740"/><end x="365" y="1209"/>
+</separator>
+<separator type="Black" thickness="4"><start x="1374" y="741"/><end x="1374" y="1208"/>
+</separator>
+</separatorsBox>
+</block>
+<block blockType="SeparatorsBox" blockName="" l="1686" t="524" r="2333" b="678"><region><rect l="1686" t="524" r="2333" b="530"/><rect l="1686" t="530" r="2333" b="671"/><rect l="1686" t="671" r="2333" b="678"/></region>
+<separatorsBox>
+<separator type="Black" thickness="4"><start x="1688" y="527"/><end x="2333" y="527"/>
+</separator>
+<separator type="Black" thickness="5"><start x="1686" y="674"/><end x="2333" y="674"/>
+</separator>
+<separator type="Black" thickness="5"><start x="1688" y="524"/><end x="1688" y="675"/>
+</separator>
+<separator type="Black" thickness="5"><start x="2330" y="525"/><end x="2330" y="678"/>
+</separator>
+</separatorsBox>
+</block>
+<block blockType="Separator" blockName="" l="1686" t="591" r="2333" b="599"><region><rect l="1686" t="591" r="1952" b="592"/><rect l="1686" t="592" r="2249" b="594"/><rect l="1686" t="594" r="2333" b="595"/><rect l="1760" t="595" r="2333" b="596"/><rect l="1766" t="596" r="2333" b="597"/><rect l="2249" t="597" r="2333" b="599"/></region>
+<separator type="Black" thickness="5"><start x="1686" y="595"/><end x="2333" y="595"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="365" t="810" r="1376" b="816"><region><rect l="372" t="810" r="1376" b="812"/><rect l="365" t="812" r="1376" b="815"/><rect l="1278" t="815" r="1376" b="816"/></region>
+<separator type="Black" thickness="5"><start x="365" y="813"/><end x="1376" y="813"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="362" t="1274" r="2328" b="1281"><region><rect l="1218" t="1274" r="1251" b="1275"/><rect l="681" t="1275" r="2328" b="1276"/><rect l="362" t="1276" r="2328" b="1278"/><rect l="362" t="1278" r="2328" b="1280"/><rect l="362" t="1280" r="2328" b="1281"/></region>
+<separator type="Black" thickness="5"><start x="362" y="1277"/><end x="2328" y="1277"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="362" t="1343" r="2328" b="1350"><region><rect l="698" t="1343" r="1935" b="1344"/><rect l="362" t="1344" r="2262" b="1346"/><rect l="362" t="1346" r="2328" b="1347"/><rect l="374" t="1347" r="2328" b="1348"/><rect l="374" t="1348" r="2328" b="1349"/><rect l="2262" t="1349" r="2328" b="1350"/></region>
+<separator type="Black" thickness="4"><start x="362" y="1346"/><end x="2328" y="1346"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="360" t="2363" r="2319" b="2370"><region><rect l="884" t="2363" r="1985" b="2364"/><rect l="564" t="2364" r="2311" b="2365"/><rect l="360" t="2365" r="2311" b="2366"/><rect l="360" t="2366" r="2319" b="2369"/><rect l="360" t="2369" r="2311" b="2370"/></region>
+<separator type="Black" thickness="5"><start x="360" y="2366"/><end x="2319" y="2366"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1683" t="2456" r="2327" b="2462"><region><rect l="1742" t="2456" r="1934" b="2457"/><rect l="1683" t="2457" r="2327" b="2460"/><rect l="1683" t="2460" r="2327" b="2461"/><rect l="1758" t="2461" r="2327" b="2462"/></region>
+<separator type="Black" thickness="5"><start x="1683" y="2459"/><end x="2327" y="2459"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1086" t="2758" r="1352" b="2768"><region><rect l="1142" t="2758" r="1224" b="2759"/><rect l="1142" t="2759" r="1256" b="2760"/><rect l="1086" t="2760" r="1313" b="2762"/><rect l="1086" t="2762" r="1352" b="2763"/><rect l="1086" t="2763" r="1352" b="2765"/><rect l="1086" t="2765" r="1352" b="2766"/><rect l="1331" t="2766" r="1352" b="2768"/></region>
+<separator type="Black" thickness="5"><start x="1086" y="2763"/><end x="1352" y="2763"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1352" t="2765" r="1575" b="2775"><region><rect l="1352" t="2765" r="1388" b="2766"/><rect l="1352" t="2766" r="1421" b="2768"/><rect l="1352" t="2768" r="1454" b="2769"/><rect l="1376" t="2769" r="1454" b="2770"/><rect l="1376" t="2770" r="1575" b="2771"/><rect l="1421" t="2771" r="1575" b="2772"/><rect l="1430" t="2772" r="1575" b="2774"/><rect l="1454" t="2774" r="1575" b="2775"/></region>
+<separator type="Black" thickness="4"><start x="1352" y="2770"/><end x="1575" y="2770"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="362" t="2870" r="1373" b="2877"><region><rect l="962" t="2870" r="1373" b="2871"/><rect l="362" t="2871" r="1373" b="2874"/><rect l="362" t="2874" r="962" b="2876"/><rect l="362" t="2876" r="588" b="2877"/></region>
+<separator type="Black" thickness="4"><start x="362" y="2873"/><end x="1373" y="2873"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="2430" t="3416" r="2534" b="3420"><region><rect l="2430" t="3416" r="2534" b="3420"/></region>
+<separator type="Black" thickness="4"><start x="2430" y="3418"/><end x="2534" y="3418"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="459" t="3417" r="2430" b="3431"><region><rect l="2280" t="3417" r="2430" b="3419"/><rect l="2003" t="3419" r="2430" b="3420"/><rect l="1997" t="3420" r="2430" b="3422"/><rect l="1742" t="3422" r="2280" b="3423"/><rect l="1475" t="3423" r="2280" b="3424"/><rect l="1212" t="3424" r="2090" b="3425"/><rect l="1205" t="3425" r="1997" b="3426"/><rect l="1020" t="3426" r="1742" b="3428"/><rect l="459" t="3428" r="1493" b="3429"/><rect l="459" t="3429" r="1212" b="3431"/></region>
+<separator type="Black" thickness="4"><start x="459" y="3424"/><end x="2430" y="3424"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="360" t="1277" r="368" b="2370"><region><rect l="362" t="1277" r="367" b="1380"/><rect l="363" t="1380" r="368" b="1503"/><rect l="361" t="1503" r="366" b="1880"/><rect l="360" t="1880" r="365" b="1931"/><rect l="361" t="1931" r="366" b="2202"/><rect l="360" t="2202" r="365" b="2370"/></region>
+<separator type="Black" thickness="5"><start x="364" y="1277"/><end x="364" y="2370"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1683" t="2364" r="1688" b="2460"><region><rect l="1683" t="2364" r="1686" b="2388"/><rect l="1683" t="2388" r="1688" b="2460"/></region>
+<separator type="Black" thickness="5"><start x="1685" y="2364"/><end x="1685" y="2460"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1986" t="1275" r="1992" b="2462"><region><rect l="1988" t="1275" r="1992" b="1499"/><rect l="1986" t="1499" r="1991" b="1535"/><rect l="1986" t="1535" r="1992" b="1584"/><rect l="1987" t="1584" r="1992" b="1646"/><rect l="1986" t="1646" r="1991" b="2462"/></region>
+<separator type="Black" thickness="5"><start x="1989" y="1275"/><end x="1989" y="2462"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1991" t="524" r="1995" b="677"><region><rect l="1991" t="524" r="1995" b="677"/></region>
+<separator type="Black" thickness="4"><start x="1993" y="524"/><end x="1993" y="677"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="2322" t="1277" r="2330" b="2462"><region><rect l="2324" t="1277" r="2328" b="1541"/><rect l="2324" t="1541" r="2330" b="1551"/><rect l="2325" t="1551" r="2330" b="1554"/><rect l="2324" t="1554" r="2330" b="1569"/><rect l="2325" t="1569" r="2330" b="1637"/><rect l="2324" t="1637" r="2328" b="1743"/><rect l="2322" t="1743" r="2328" b="2025"/><rect l="2324" t="2025" r="2328" b="2042"/><rect l="2322" t="2042" r="2328" b="2247"/><rect l="2324" t="2247" r="2328" b="2382"/><rect l="2322" t="2382" r="2327" b="2462"/></region>
+<separator type="Black" thickness="5"><start x="2326" y="1277"/><end x="2326" y="2462"/>
+</separator>
+</block>
+</page>
+</document>

@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="ABBYY FineReader Engine 12" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="2480" height="3506" resolution="300" originalCoords="1">
+<block blockType="Picture" blockName="" l="977" t="91" r="1447" b="289"><region><rect l="978" t="91" r="1446" b="92"/><rect l="978" t="92" r="1447" b="234"/><rect l="977" t="234" r="1447" b="238"/><rect l="977" t="238" r="1446" b="288"/><rect l="978" t="288" r="1446" b="289"/></region>
+</block>
+<block blockType="Text" blockName="" l="795" t="300" r="1623" b="536"><region><rect l="796" t="300" r="939" b="301"/><rect l="795" t="301" r="1546" b="302"/><rect l="795" t="302" r="1623" b="534"/><rect l="934" t="534" r="1623" b="535"/><rect l="1541" t="535" r="1623" b="536"/></region>
+<text>
+<par align="Center" lineSpacing="1260">
+<line baseline="344" l="927" t="306" r="1492" b="344"><formatting lang="EnglishUnitedStates">RainTree Medical Pte Ltd&#xA;</formatting></line></par>
+<par align="Center" lineSpacing="1080">
+<line baseline="390" l="801" t="363" r="1617" b="396"><formatting lang="EnglishUnitedStates">Co. Reg No.: 199004718K GST Reg No.: M2-8910076-8&#xA;</formatting></line></par>
+<par align="Center" lineSpacing="1080">
+<line baseline="439" l="894" t="411" r="1523" b="443"><formatting lang="EnglishUnitedStates">51 Penjuru Road Level 3, Singapore 609143&#xA;</formatting></line></par>
+<par align="Center" lineSpacing="1080">
+<line baseline="487" l="915" t="459" r="1501" b="486"><formatting lang="EnglishUnitedStates">Tel: +65 6262 3037 Fax: +65 6265 0073</formatting></line>
+<line baseline="531" l="1029" t="505" r="1394" b="529"><formatting lang="EnglishUnitedStates">www.raintreemedical.com&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Table" blockName="" l="147" t="594" r="2325" b="1280"><region><rect l="148" t="594" r="332" b="595"/><rect l="148" t="595" r="939" b="596"/><rect l="148" t="596" r="1546" b="597"/><rect l="148" t="597" r="2153" b="598"/><rect l="148" t="598" r="2325" b="840"/><rect l="147" t="840" r="2325" b="845"/><rect l="147" t="845" r="2324" b="1276"/><rect l="327" t="1276" r="2324" b="1277"/><rect l="934" t="1277" r="2324" b="1278"/><rect l="1541" t="1278" r="2324" b="1279"/><rect l="2148" t="1279" r="2324" b="1280"/></region>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1065" height="69">
+<text>
+<par lineSpacing="980">
+<line baseline="646" l="154" t="616" r="261" b="643"><formatting lang="EnglishUnitedStates">Bill To:&#xA;</formatting></line></par>
+</text></cell>
+<cell colSpan="2" leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1112" height="69">
+<text>
+<par startIndent="3600" lineSpacing="1610">
+<line baseline="655" l="1371" t="602" r="1767" b="654"><formatting lang="EnglishUnitedStates">TAX INVOICE&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1065" height="54">
+<text>
+<par startIndent="700" lineSpacing="980">
+<line baseline="707" l="182" t="675" r="632" b="705"><formatting lang="EnglishUnitedStates">RainTree Medical Sdn Bhd&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="563" height="54">
+<text>
+<par startIndent="3700" lineSpacing="980">
+<line baseline="711" l="1373" t="683" r="1552" b="711"><formatting lang="EnglishUnitedStates">Invoice No&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="549" height="54">
+<text>
+<par lineSpacing="980">
+<line baseline="712" l="1789" t="684" r="1965" b="711"><formatting lang="EnglishUnitedStates">115000633&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1065" height="53">
+<text>
+<par startIndent="700" lineSpacing="980">
+<line baseline="760" l="182" t="727" r="500" b="764"><formatting lang="EnglishUnitedStates">(Co Reg. 566402-P)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="563" height="53">
+<text>
+<par startIndent="3700" lineSpacing="980">
+<line baseline="768" l="1374" t="739" r="1446" b="766"><formatting lang="EnglishUnitedStates">Date&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="549" height="53">
+<text>
+<par lineSpacing="980">
+<line baseline="768" l="1788" t="740" r="1925" b="768"><formatting lang="EnglishUnitedStates">07.08.18&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1065" height="48">
+<text>
+<par startIndent="700" lineSpacing="980">
+<line baseline="808" l="183" t="776" r="967" b="812"><formatting lang="EnglishUnitedStates">No. 4 Jin Anggerik Mokara 31/45, Kota Kemuning&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="563" height="48">
+<text>
+<par startIndent="3700" lineSpacing="980">
+<line baseline="826" l="1373" t="798" r="1581" b="825"><formatting lang="EnglishUnitedStates">Customer No&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="549" height="48">
+<text>
+<par lineSpacing="980">
+<line baseline="825" l="1791" t="797" r="1945" b="824"><formatting lang="EnglishUnitedStates">18888888&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell rowSpan="2" leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1065" height="136">
+<text>
+<par startIndent="700" lineSpacing="980">
+<line baseline="856" l="180" t="824" r="836" b="860"><formatting lang="EnglishUnitedStates">40460 Shah Alam, Selangor Darul Ehsan&#xA;</formatting></line></par>
+<par startIndent="700" lineSpacing="980">
+<line baseline="905" l="182" t="874" r="320" b="908"><formatting lang="EnglishUnitedStates">Malaysia&#xA;</formatting></line></par>
+<par startIndent="700" lineSpacing="980">
+<line baseline="952" l="179" t="921" r="374" b="951"><formatting lang="EnglishUnitedStates">Attn Sichai&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="563" height="74">
+<text>
+<par startIndent="3700" lineSpacing="980">
+<line baseline="881" l="1373" t="852" r="1644" b="881"><formatting lang="EnglishUnitedStates">Customer PO No&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="549" height="74">
+<text>
+<par lineSpacing="980">
+<line baseline="881" l="1787" t="853" r="1945" b="880"><formatting lang="EnglishUnitedStates">20300734&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="563" height="62">
+<text>
+<par startIndent="3700" lineSpacing="980">
+<line baseline="937" l="1373" t="908" r="1641" b="943"><formatting lang="EnglishUnitedStates">Delivery Note No&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="549" height="62">
+<text>
+<par lineSpacing="980">
+<line baseline="938" l="1790" t="909" r="1964" b="937"><formatting lang="EnglishUnitedStates">117000647&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1065" height="60">
+<text>
+<par startIndent="700" lineSpacing="980">
+<line baseline="1012" l="180" t="978" r="1056" b="1012"><formatting lang="EnglishUnitedStates">Tel +603-5122 9691 Fax +603-5122 9693&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="563" height="60">
+<text>
+<par startIndent="3700" lineSpacing="980">
+<line baseline="994" l="1373" t="965" r="1585" b="1000"><formatting lang="EnglishUnitedStates">Delivery Date&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="549" height="60">
+<text>
+<par lineSpacing="980">
+<line baseline="994" l="1787" t="966" r="1924" b="993"><formatting lang="EnglishUnitedStates">07.08.18&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1065" height="50">
+<text>
+<par lineSpacing="980"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="563" height="50">
+<text>
+<par startIndent="3700" lineSpacing="980">
+<line baseline="1051" l="1373" t="1022" r="1623" b="1056"><formatting lang="EnglishUnitedStates">Payment Terms&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="549" height="50">
+<text>
+<par lineSpacing="980">
+<line baseline="1051" l="1790" t="1022" r="1951" b="1050"><formatting lang="EnglishUnitedStates">120 DAYS&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1065" height="60">
+<text>
+<par lineSpacing="980">
+<line baseline="1106" l="154" t="1075" r="331" b="1110"><formatting lang="EnglishUnitedStates">Consignee:&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="563" height="60">
+<text>
+<par startIndent="3700" lineSpacing="980">
+<line baseline="1110" l="1373" t="1082" r="1465" b="1109"><formatting lang="EnglishUnitedStates">Name&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="549" height="60">
+<text>
+<par lineSpacing="980">
+<line baseline="1111" l="1788" t="1083" r="1938" b="1117"><formatting lang="EnglishUnitedStates">Company&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1065" height="53">
+<text>
+<par startIndent="700" lineSpacing="980">
+<line baseline="1171" l="181" t="1139" r="938" b="1176"><formatting lang="EnglishUnitedStates">RainTree Medical Sdn Bhd (Co Reg. 566402-P)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="563" height="53">
+<text>
+<par startIndent="3700" lineSpacing="980">
+<line baseline="1167" l="1372" t="1138" r="1494" b="1166"><formatting lang="EnglishUnitedStates">Contact&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="549" height="53">
+<text>
+<par lineSpacing="980">
+<line baseline="1167" l="1787" t="1139" r="2024" b="1166"><formatting lang="EnglishUnitedStates">+65 6262 3037&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1065" height="47">
+<text>
+<par startIndent="700" lineSpacing="980">
+<line baseline="1219" l="181" t="1188" r="701" b="1223"><formatting lang="EnglishUnitedStates">No. 4 Jin Anggerik Mokara 31/45&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="563" height="47">
+<text>
+<par startIndent="3700" lineSpacing="980">
+<line baseline="1220" l="1371" t="1190" r="1651" b="1226"><formatting lang="EnglishUnitedStates">Term of Delivery&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="549" height="47">
+<text>
+<par lineSpacing="860">
+<line baseline="1216" l="1788" t="1191" r="2025" b="1215"><formatting lang="EnglishUnitedStates">DAP Shah Alam&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1065" height="52">
+<text>
+<par startIndent="700" lineSpacing="980">
+<line baseline="1267" l="181" t="1236" r="429" b="1271"><formatting lang="EnglishUnitedStates">Kota Kemuning,&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="563" height="52">
+<text>
+<par leftIndent="3700" lineSpacing="980"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="549" height="52">
+<text>
+<par lineSpacing="860">
+<line baseline="1257" l="1787" t="1231" r="2318" b="1264"><formatting lang="EnglishUnitedStates">Delivered at Place (Incoterms 2010)&#xA;</formatting></line></par>
+</text></cell></row>
+</block>
+<block blockType="Text" blockName="" l="172" t="1278" r="477" b="1375"><region><rect l="172" t="1278" r="332" b="1279"/><rect l="172" t="1279" r="477" b="1374"/><rect l="327" t="1374" r="476" b="1375"/></region>
+<text>
+<par lineSpacing="1176">
+<line baseline="1315" l="178" t="1284" r="470" b="1317"><formatting lang="EnglishUnitedStates">40460 Shah Alam,</formatting></line>
+<line baseline="1364" l="181" t="1333" r="471" b="1368"><formatting lang="EnglishUnitedStates">Selangor Malaysia&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Table" blockName="" l="130" t="1368" r="2405" b="2178"><region><rect l="132" t="1368" r="332" b="1369"/><rect l="132" t="1369" r="939" b="1370"/><rect l="132" t="1370" r="1546" b="1371"/><rect l="132" t="1371" r="2153" b="1372"/><rect l="132" t="1372" r="2405" b="1447"/><rect l="131" t="1447" r="2405" b="1452"/><rect l="131" t="1452" r="2404" b="2054"/><rect l="130" t="2054" r="2404" b="2059"/><rect l="130" t="2059" r="2403" b="2174"/><rect l="327" t="2174" r="2403" b="2175"/><rect l="934" t="2175" r="2403" b="2176"/><rect l="1541" t="2176" r="2403" b="2177"/><rect l="2148" t="2177" r="2403" b="2178"/></region>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="952" height="54">
+<text>
+<par lineSpacing="980"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="510" height="54">
+<text>
+<par leftIndent="2000" lineSpacing="980"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="127" height="54">
+<text>
+<par lineSpacing="980"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="175" height="54">
+<text>
+<par lineSpacing="1130"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="273" height="54">
+<text>
+<par align="Right" lineSpacing="980">
+<line baseline="1406" l="2079" t="1378" r="2159" b="1413"><formatting lang="EnglishUnitedStates">Page&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="88" height="54">
+<text>
+<par align="Right" lineSpacing="980">
+<line baseline="1405" l="2220" t="1379" r="2238" b="1405"><formatting lang="EnglishUnitedStates">2&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="148" height="54">
+<text>
+<par lineSpacing="980">
+<line baseline="1405" l="2271" t="1378" r="2369" b="1406"><formatting lang="EnglishUnitedStates">of 2&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="952" height="41">
+<text>
+<par lineSpacing="860">
+<line baseline="1457" l="151" t="1429" r="536" b="1460"><formatting lang="EnglishUnitedStates">Ref No Description&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="510" height="41">
+<text>
+<par startIndent="2000" lineSpacing="860">
+<line baseline="1458" l="1172" t="1432" r="1446" b="1456"><formatting lang="EnglishUnitedStates">Customs Tariff No&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="127" height="41">
+<text>
+<par align="Right" rightIndent="1300" lineSpacing="860">
+<line baseline="1458" l="1609" t="1432" r="1660" b="1463"><formatting lang="EnglishUnitedStates">Qty&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="175" height="41">
+<text>
+<par lineSpacing="860">
+<line baseline="1458" l="1741" t="1433" r="1888" b="1457"><formatting lang="EnglishUnitedStates">Unit Price&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="273" height="41">
+<text>
+<par align="Right" rightIndent="900" lineSpacing="860">
+<line baseline="1459" l="2004" t="1434" r="2125" b="1458"><formatting lang="EnglishUnitedStates">Amount&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="88" height="41">
+<text>
+<par align="Right" lineSpacing="860">
+<line baseline="1458" l="2179" t="1434" r="2244" b="1458"><formatting lang="EnglishUnitedStates">GST&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="148" height="41">
+<text>
+<par align="Right" lineSpacing="860">
+<line baseline="1458" l="2298" t="1434" r="2390" b="1465"><formatting lang="EnglishUnitedStates">Origin&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="952" height="55">
+<text>
+<par lineSpacing="860">
+<line baseline="1502" l="154" t="1473" r="335" b="1499"><formatting lang="EnglishUnitedStates">Oust Ref No&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="510" height="55">
+<text>
+<par startIndent="2000" lineSpacing="860">
+<line baseline="1498" l="1172" t="1472" r="1435" b="1503"><formatting lang="EnglishUnitedStates">Product Category&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="127" height="55">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="175" height="55">
+<text>
+<par startIndent="1800" lineSpacing="860">
+<line baseline="1498" l="1800" t="1473" r="1887" b="1503"><formatting lang="EnglishUnitedStates">(SGD)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="273" height="55">
+<text>
+<par align="Right" rightIndent="900" lineSpacing="860">
+<line baseline="1499" l="2035" t="1473" r="2123" b="1504"><formatting lang="EnglishUnitedStates">(SGD)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="88" height="55">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="148" height="55">
+<text>
+<par align="Center" lineSpacing="860">
+<line baseline="1498" l="2270" t="1474" r="2388" b="1505"><formatting lang="EnglishUnitedStates">Country&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" rightBorder="White" width="952" height="162">
+<text>
+<par lineSpacing="860">
+<line baseline="1558" l="151" t="1529" r="998" b="1557"><formatting lang="EnglishUnitedStates">ISD008 AsGUARD Flex island sterile 10 x 30cm - 25’s&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="510" height="162">
+<text>
+<par startIndent="2000" lineSpacing="860">
+<line baseline="1559" l="1172" t="1533" r="1328" b="1557"><formatting lang="EnglishUnitedStates">3005.10.90&#xA;</formatting></line></par>
+<par startIndent="2000" lineSpacing="860">
+<line baseline="1607" l="1172" t="1581" r="1310" b="1611"><formatting lang="EnglishUnitedStates">Dressings&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="127" height="162">
+<text>
+<par align="Center" lineSpacing="860">
+<line baseline="1558" l="1628" t="1534" r="1660" b="1557"><formatting lang="EnglishUnitedStates">30&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="175" height="162">
+<text>
+<par startIndent="1100" lineSpacing="860">
+<line baseline="1559" l="1772" t="1534" r="1883" b="1558"><formatting lang="EnglishUnitedStates">5.06/BX&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="273" height="162">
+<text>
+<par align="Right" rightIndent="900" lineSpacing="860">
+<line baseline="1559" l="2030" t="1535" r="2122" b="1558"><formatting lang="EnglishUnitedStates">151.80&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="88" height="162">
+<text>
+<par align="Right" lineSpacing="860">
+<line baseline="1559" l="2209" t="1535" r="2242" b="1559"><formatting lang="EnglishUnitedStates">SI&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="148" height="162">
+<text>
+<par align="Right" lineSpacing="860">
+<line baseline="1559" l="2346" t="1535" r="2388" b="1559"><formatting lang="EnglishUnitedStates">CN&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" rightBorder="White" width="952" height="71">
+<text>
+<par lineSpacing="980">
+<line baseline="1736" l="158" t="1703" r="516" b="1733"><formatting lang="EnglishUnitedStates">Shipping Information&#xA;</formatting></line></par>
+</text></cell>
+<cell colSpan="2" leftBorder="White" rightBorder="White" bottomBorder="White" width="637" height="71">
+<text>
+<par startIndent="4800" lineSpacing="980">
+<line baseline="1748" l="1287" t="1718" r="1628" b="1747"><formatting lang="EnglishUnitedStates">Sub-total Before GST&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="175" height="71">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="273" height="71">
+<text>
+<par align="Right" rightIndent="900" lineSpacing="860">
+<line baseline="1749" l="2003" t="1724" r="2126" b="1752"><formatting lang="EnglishUnitedStates">4,422.74&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="88" height="71">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="148" height="71">
+<text>
+<par lineSpacing="860"></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="952" height="43">
+<text>
+<par lineSpacing="980">
+<line baseline="1791" l="157" t="1760" r="312" b="1787"><formatting lang="EnglishUnitedStates">Container&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="510" height="43">
+<text>
+<par leftIndent="2000" lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="127" height="43">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="43">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="273" height="43">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="88" height="43">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="148" height="43">
+<text>
+<par lineSpacing="860"></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="952" height="68">
+<text>
+<par lineSpacing="980">
+<line baseline="1852" l="155" t="1821" r="262" b="1848"><formatting lang="EnglishUnitedStates">Vessel&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="510" height="68">
+<text>
+<par startIndent="4700" lineSpacing="980">
+<line baseline="1835" l="1288" t="1807" r="1396" b="1841"><formatting lang="EnglishUnitedStates">Freight&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="127" height="68">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="68">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="273" height="68">
+<text>
+<par align="Right" rightIndent="900" lineSpacing="860">
+<line baseline="1825" l="2066" t="1800" r="2126" b="1824"><formatting lang="EnglishUnitedStates">0.00&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="88" height="68">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="148" height="68">
+<text>
+<par lineSpacing="860"></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="952" height="72">
+<text>
+<par lineSpacing="980">
+<line baseline="1907" l="157" t="1877" r="225" b="1904"><formatting lang="EnglishUnitedStates">ETD&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="510" height="72">
+<text>
+<par startIndent="4700" lineSpacing="980">
+<line baseline="1908" l="1288" t="1879" r="1559" b="1914"><formatting lang="EnglishUnitedStates">Discount @&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="127" height="72">
+<text>
+<par align="Right" lineSpacing="980">
+<line baseline="1908" l="1640" t="1881" r="1707" b="1908"><formatting lang="EnglishUnitedStates">0.00&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="175" height="72">
+<text>
+<par lineSpacing="860">
+<line baseline="1909" l="1734" t="1880" r="1762" b="1908"><formatting lang="EnglishUnitedStates">%&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="273" height="72">
+<text>
+<par align="Right" rightIndent="900" lineSpacing="860">
+<line baseline="1909" l="2066" t="1885" r="2126" b="1908"><formatting lang="EnglishUnitedStates">0.00&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="88" height="72">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="148" height="72">
+<text>
+<par lineSpacing="860"></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="952" height="67">
+<text>
+<par lineSpacing="980">
+<line baseline="1988" l="155" t="1957" r="452" b="1985"><formatting lang="EnglishUnitedStates">Terms of Content&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="510" height="67">
+<text>
+<par startIndent="4700" lineSpacing="980">
+<line baseline="1989" l="1285" t="1960" r="1577" b="1989"><formatting lang="EnglishUnitedStates">Total Before GST&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="127" height="67">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="175" height="67">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="273" height="67">
+<text>
+<par align="Right" rightIndent="900" lineSpacing="980">
+<line baseline="1990" l="1987" t="1962" r="2126" b="1994"><formatting lang="EnglishUnitedStates">4,422.74&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="88" height="67">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="148" height="67">
+<text>
+<par lineSpacing="860"></par>
+</text></cell></row>
+<row>
+<cell rowSpan="2" leftBorder="White" rightBorder="White" bottomBorder="White" width="952" height="113">
+<text>
+<par lineSpacing="980">
+<line baseline="2049" l="156" t="2018" r="513" b="2053"><formatting lang="EnglishUnitedStates">Carton(s) 102&#xA;</formatting></line></par>
+<par lineSpacing="980">
+<line baseline="2105" l="155" t="2074" r="337" b="2110"><formatting lang="EnglishUnitedStates">Weight (kg)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="510" height="94">
+<text>
+<par startIndent="4700" lineSpacing="980">
+<line baseline="2070" l="1286" t="2040" r="1560" b="2076"><formatting lang="EnglishUnitedStates">GST @&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="127" height="94">
+<text>
+<par align="Right" lineSpacing="980">
+<line baseline="2070" l="1639" t="2042" r="1707" b="2069"><formatting lang="EnglishUnitedStates">0.00&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="175" height="94">
+<text>
+<par lineSpacing="860">
+<line baseline="2070" l="1733" t="2041" r="1762" b="2069"><formatting lang="EnglishUnitedStates">%&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="273" height="94">
+<text>
+<par align="Right" rightIndent="900" lineSpacing="860">
+<line baseline="2071" l="2061" t="2046" r="2122" b="2070"><formatting lang="EnglishUnitedStates">0.00&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="88" height="94">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="148" height="94">
+<text>
+<par lineSpacing="860"></par>
+</text></cell></row>
+<row>
+<cell rowSpan="2" leftBorder="White" rightBorder="White" width="510" height="79">
+<text>
+<par startIndent="4700" lineSpacing="980">
+<line baseline="2151" l="1285" t="2122" r="1496" b="2149"><formatting lang="EnglishUnitedStates">Amount Due&#xA;</formatting></line></par>
+</text></cell>
+<cell rowSpan="2" leftBorder="White" rightBorder="White" width="127" height="79">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell rowSpan="2" leftBorder="White" rightBorder="White" width="175" height="79">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell rowSpan="2" leftBorder="White" rightBorder="White" width="273" height="79">
+<text>
+<par align="Right" rightIndent="900" lineSpacing="980">
+<line baseline="2151" l="1900" t="2123" r="2125" b="2156"><formatting lang="EnglishUnitedStates">SGD 4,422.74&#xA;</formatting></line></par>
+</text></cell>
+<cell rowSpan="2" leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="88" height="79">
+<text>
+<par lineSpacing="860"></par>
+</text></cell>
+<cell rowSpan="2" leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="148" height="79">
+<text>
+<par lineSpacing="860"></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="952" height="60">
+<text>
+<par lineSpacing="980">
+<line baseline="2158" l="154" t="2126" r="376" b="2162"><formatting lang="EnglishUnitedStates">Volume (cbm)&#xA;</formatting></line></par>
+</text></cell></row>
+</block>
+<block blockType="Text" blockName="" l="150" t="2293" r="1364" b="2342"><region><rect l="150" t="2293" r="332" b="2294"/><rect l="150" t="2294" r="939" b="2295"/><rect l="150" t="2295" r="1364" b="2340"/><rect l="327" t="2340" r="1364" b="2341"/><rect l="934" t="2341" r="1364" b="2342"/></region>
+<text>
+<par lineSpacing="980">
+<line baseline="2331" l="156" t="2299" r="1358" b="2336"><formatting lang="EnglishUnitedStates">Please write Customer No. or Invoice(s) Number on your remittance advice.&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="150" t="2370" r="686" b="2411"><region><rect l="150" t="2370" r="332" b="2371"/><rect l="150" t="2371" r="686" b="2410"/><rect l="327" t="2410" r="686" b="2411"/></region>
+<text>
+<par lineSpacing="980">
+<line baseline="2407" l="156" t="2376" r="680" b="2405"><formatting lang="EnglishUnitedStates">Please remit in our favor to:&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="146" t="2430" r="1254" b="2577"><region><rect l="146" t="2430" r="332" b="2431"/><rect l="146" t="2431" r="939" b="2432"/><rect l="146" t="2432" r="1254" b="2575"/><rect l="327" t="2575" r="1254" b="2576"/><rect l="934" t="2576" r="1254" b="2577"/></region>
+<text>
+<par lineSpacing="980">
+<line baseline="2468" l="155" t="2437" r="1248" b="2474"><formatting lang="EnglishUnitedStates">Oversea-Chinese Banking Corporation Ltd, North Branch, Singapore&#xA;</formatting></line></par>
+<par lineSpacing="980">
+<line baseline="2520" l="155" t="2489" r="553" b="2518"><formatting lang="EnglishUnitedStates">Swift Code: OCBCSGSG&#xA;</formatting></line></par>
+<par lineSpacing="980">
+<line baseline="2573" l="153" t="2541" r="701" b="2570"><formatting lang="EnglishUnitedStates">Account Number: 591-059340-001&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1910" t="2304" r="2364" b="2346"><region><rect l="1910" t="2304" r="2153" b="2305"/><rect l="1910" t="2305" r="2364" b="2345"/><rect l="2148" t="2345" r="2364" b="2346"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="2339" l="1916" t="2310" r="2358" b="2340"><formatting lang="EnglishUnitedStates">RainTree Medical Pte Ltd&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1964" t="2503" r="2308" b="2551"><region><rect l="1964" t="2503" r="2153" b="2504"/><rect l="1964" t="2504" r="2308" b="2550"/><rect l="2148" t="2550" r="2308" b="2551"/></region>
+<text>
+<par lineSpacing="980">
+<line baseline="2537" l="1971" t="2510" r="2302" b="2544"><formatting lang="EnglishUnitedStates">Authorised Signature&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="149" t="2608" r="1940" b="2658"><region><rect l="149" t="2608" r="332" b="2609"/><rect l="149" t="2609" r="939" b="2610"/><rect l="149" t="2610" r="1546" b="2611"/><rect l="149" t="2611" r="1939" b="2612"/><rect l="149" t="2612" r="1940" b="2655"/><rect l="327" t="2655" r="1940" b="2656"/><rect l="934" t="2656" r="1940" b="2657"/><rect l="1541" t="2657" r="1940" b="2658"/></region>
+<text>
+<par lineSpacing="980">
+<line baseline="2646" l="155" t="2614" r="1934" b="2652"><formatting lang="EnglishUnitedStates">Please contact our finance department within 7 days from the date of invoice should there be any discrepancies.&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="148" t="2708" r="1935" b="2752"><region><rect l="149" t="2708" r="332" b="2709"/><rect l="148" t="2709" r="939" b="2710"/><rect l="148" t="2710" r="1546" b="2711"/><rect l="148" t="2711" r="1935" b="2749"/><rect l="327" t="2749" r="1935" b="2750"/><rect l="934" t="2750" r="1935" b="2751"/><rect l="1541" t="2751" r="1935" b="2752"/></region>
+<text>
+<par lineSpacing="980">
+<line baseline="2746" l="154" t="2714" r="1928" b="2746"><formatting lang="EnglishUnitedStates">PLEASE FURNISH US A COPY OF SUBSIDIARY EXPORT CERTIFICATE IN THE CASE OF SELF EXPORT&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="145" t="3206" r="1076" b="3352"><region><rect l="146" t="3206" r="332" b="3207"/><rect l="146" t="3207" r="939" b="3208"/><rect l="146" t="3208" r="1076" b="3268"/><rect l="145" t="3268" r="1076" b="3272"/><rect l="145" t="3272" r="1075" b="3350"/><rect l="327" t="3350" r="1075" b="3351"/><rect l="934" t="3351" r="1075" b="3352"/></region>
+<text>
+<par lineSpacing="1128">
+<line baseline="3244" l="152" t="3212" r="987" b="3243"><formatting lang="EnglishUnitedStates">Please visit our website for terms and conditions&#xA;</formatting></line></par>
+<par lineSpacing="1128">
+<line baseline="3300" l="152" t="3268" r="1070" b="3298"><formatting lang="EnglishUnitedStates">Based On Sales Orders 113000670. Based On Deliveries</formatting></line>
+<line baseline="3346" l="153" t="3317" r="336" b="3345"><formatting lang="EnglishUnitedStates">117000647.&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Picture" blockName="" l="1421" t="3175" r="2368" b="3414"><region><rect l="1422" t="3175" r="1546" b="3176"/><rect l="1422" t="3176" r="2153" b="3177"/><rect l="1422" t="3177" r="2368" b="3268"/><rect l="1421" t="3268" r="2368" b="3272"/><rect l="1421" t="3272" r="2367" b="3412"/><rect l="1541" t="3412" r="2367" b="3413"/><rect l="2148" t="3413" r="2367" b="3414"/></region>
+</block>
+<block blockType="Separator" blockName="" l="144" t="548" r="2404" b="560"><region><rect l="144" t="548" r="332" b="549"/><rect l="144" t="549" r="572" b="550"/><rect l="144" t="550" r="939" b="551"/><rect l="144" t="551" r="1546" b="552"/><rect l="144" t="552" r="2153" b="553"/><rect l="144" t="553" r="2351" b="554"/><rect l="327" t="554" r="2404" b="555"/><rect l="572" t="555" r="2404" b="556"/><rect l="934" t="556" r="2404" b="557"/><rect l="1541" t="557" r="2404" b="558"/><rect l="2148" t="558" r="2404" b="559"/><rect l="2351" t="559" r="2404" b="560"/></region>
+<separator type="Black" thickness="5"><start x="145" y="556"/><end x="2405" y="556"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="141" t="1419" r="2399" b="1430"><region><rect l="141" t="1419" r="332" b="1420"/><rect l="141" t="1420" r="939" b="1421"/><rect l="141" t="1421" r="1546" b="1422"/><rect l="141" t="1422" r="2153" b="1423"/><rect l="141" t="1423" r="2336" b="1424"/><rect l="327" t="1424" r="2399" b="1425"/><rect l="934" t="1425" r="2399" b="1426"/><rect l="1541" t="1426" r="2399" b="1427"/><rect l="1632" t="1427" r="2399" b="1428"/><rect l="2148" t="1428" r="2399" b="1429"/><rect l="2336" t="1429" r="2398" b="1430"/></region>
+<separator type="Black" thickness="5"><start x="143" y="1426"/><end x="2401" y="1426"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="144" t="1515" r="2398" b="1526"><region><rect l="145" t="1515" r="332" b="1516"/><rect l="144" t="1516" r="939" b="1517"/><rect l="144" t="1517" r="1067" b="1518"/><rect l="144" t="1518" r="1546" b="1519"/><rect l="144" t="1519" r="2153" b="1520"/><rect l="327" t="1520" r="2193" b="1521"/><rect l="592" t="1521" r="2398" b="1522"/><rect l="934" t="1522" r="2398" b="1523"/><rect l="1541" t="1523" r="2398" b="1524"/><rect l="2148" t="1524" r="2398" b="1525"/><rect l="2193" t="1525" r="2398" b="1526"/></region>
+<separator type="Black" thickness="5"><start x="147" y="1522"/><end x="2401" y="1522"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="118" t="1677" r="2398" b="1688"><region><rect l="120" t="1677" r="332" b="1678"/><rect l="118" t="1678" r="939" b="1679"/><rect l="118" t="1679" r="1546" b="1680"/><rect l="118" t="1680" r="2153" b="1681"/><rect l="120" t="1681" r="2336" b="1682"/><rect l="327" t="1682" r="2398" b="1683"/><rect l="934" t="1683" r="2398" b="1684"/><rect l="1541" t="1684" r="2398" b="1685"/><rect l="1569" t="1685" r="2398" b="1686"/><rect l="2148" t="1686" r="2398" b="1687"/><rect l="2336" t="1687" r="2398" b="1688"/></region>
+<separator type="Black" thickness="5"><start x="121" y="1684"/><end x="2401" y="1684"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="154" t="1731" r="517" b="1737"><region><rect l="154" t="1731" r="332" b="1732"/><rect l="154" t="1732" r="517" b="1736"/><rect l="290" t="1736" r="517" b="1737"/></region>
+<separator type="Black" thickness="5"><start x="157" y="1738"/><end x="520" y="1738"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1276" t="1933" r="2134" b="1940"><region><rect l="1545" t="1933" r="1546" b="1934"/><rect l="1276" t="1934" r="2133" b="1935"/><rect l="1276" t="1935" r="2134" b="1939"/><rect l="1541" t="1939" r="2134" b="1940"/></region>
+<separator type="Black" thickness="6"><start x="1279" y="1938"/><end x="2137" y="1938"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="154" t="1985" r="452" b="1991"><region><rect l="154" t="1985" r="332" b="1986"/><rect l="154" t="1986" r="452" b="1990"/><rect l="327" t="1990" r="451" b="1991"/></region>
+<separator type="Black" thickness="5"><start x="157" y="1991"/><end x="455" y="1991"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1277" t="2094" r="2134" b="2101"><region><rect l="1277" t="2094" r="1546" b="2095"/><rect l="1277" t="2095" r="2134" b="2100"/><rect l="1541" t="2100" r="2134" b="2101"/></region>
+<separator type="Black" thickness="5"><start x="1281" y="2099"/><end x="2138" y="2099"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1276" t="2170" r="2134" b="2177"><region><rect l="1276" t="2170" r="1546" b="2171"/><rect l="1276" t="2171" r="2134" b="2176"/><rect l="1541" t="2176" r="2134" b="2177"/></region>
+<separator type="Black" thickness="5"><start x="1280" y="2175"/><end x="2138" y="2175"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1906" t="2482" r="2368" b="2489"><region><rect l="1906" t="2482" r="2153" b="2483"/><rect l="1906" t="2483" r="2337" b="2484"/><rect l="1906" t="2484" r="2368" b="2487"/><rect l="2148" t="2487" r="2368" b="2488"/><rect l="2337" t="2488" r="2368" b="2489"/></region>
+<separator type="Black" thickness="5"><start x="1910" y="2486"/><end x="2372" y="2486"/>
+</separator>
+</block>
+</page>
+</document>

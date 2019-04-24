@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="ABBYY FineReader Engine 12" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="2550" height="3300" resolution="300" originalCoords="1">
+<block blockType="Text" blockName="" l="308" t="506" r="673" b="568"><region><rect l="308" t="506" r="673" b="568"/></region>
+<text>
+<par lineSpacing="1720">
+<line baseline="562" l="314" t="510" r="667" b="562"><formatting lang="EnglishUnitedStates">Tax Invoice&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="303" t="632" r="611" b="862"><region><rect l="303" t="632" r="611" b="862"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="664" l="310" t="638" r="431" b="664"><formatting lang="EnglishUnitedStates">Sold To:&#xA;</formatting></line></par>
+<par lineSpacing="860">
+<line baseline="711" l="309" t="687" r="592" b="711"><formatting lang="EnglishUnitedStates">TRADING PTE LTD&#xA;</formatting></line></par>
+<par lineSpacing="860">
+<line baseline="757" l="311" t="733" r="402" b="757"><formatting lang="EnglishUnitedStates">33 #8&#xA;</formatting></line></par>
+<par lineSpacing="860">
+<line baseline="804" l="318" t="779" r="471" b="811"><formatting lang="EnglishUnitedStates">Singapore&#xA;</formatting></line></par>
+<par lineSpacing="860">
+<line baseline="850" l="310" t="824" r="605" b="856"><formatting lang="EnglishUnitedStates">Attn: Lim (Tel:+65)&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1433" t="681" r="1699" b="856"><region><rect l="1433" t="681" r="1699" b="856"/></region>
+<text>
+<par align="Justified" lineSpacing="1116">
+<line baseline="711" l="1442" t="687" r="1523" b="711"><formatting lang="EnglishUnitedStates">Date:&#xA;</formatting></line></par>
+<par lineSpacing="1116">
+<line baseline="757" l="1442" t="732" r="1627" b="757"><formatting lang="EnglishUnitedStates">Invoice No.:</formatting></line>
+<line baseline="804" l="1442" t="778" r="1693" b="804"><formatting lang="EnglishUnitedStates">Purchase Order:</formatting></line>
+<line baseline="850" l="1439" t="826" r="1530" b="850"><formatting lang="EnglishUnitedStates">Term:&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1730" t="681" r="2063" b="863"><region><rect l="1730" t="681" r="2063" b="863"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="711" l="1737" t="687" r="1876" b="711"><formatting lang="EnglishUnitedStates">03-04-18&#xA;</formatting></line></par>
+<par lineSpacing="860">
+<line baseline="757" l="1739" t="733" r="2038" b="757"><formatting lang="EnglishUnitedStates">RV-03042018-0158&#xA;</formatting></line></par>
+<par lineSpacing="860">
+<line baseline="804" l="1736" t="780" r="2057" b="804"><formatting lang="EnglishUnitedStates">T1PO-2018-0304003&#xA;</formatting></line></par>
+<par lineSpacing="860">
+<line baseline="850" l="1738" t="824" r="1941" b="857"><formatting lang="EnglishUnitedStates">3 Days Credit&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1744" t="1023" r="1771" b="1069"><region><rect l="1744" t="1023" r="1771" b="1069"/></region>
+<text>
+<par align="Justified" lineSpacing="860">
+<line baseline="1063" l="1750" t="1029" r="1765" b="1063"><formatting lang="EnglishUnitedStates">$&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1972" t="1023" r="1999" b="1069"><region><rect l="1972" t="1023" r="1999" b="1069"/></region>
+<text>
+<par align="Justified" lineSpacing="860">
+<line baseline="1063" l="1978" t="1029" r="1993" b="1063"><formatting lang="EnglishUnitedStates">$&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1572" t="1026" r="1677" b="1063"><region><rect l="1572" t="1026" r="1677" b="1063"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="1057" l="1578" t="1033" r="1671" b="1057"><formatting lang="EnglishUnitedStates">10000&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="349" t="1027" r="375" b="1064"><region><rect l="349" t="1027" r="375" b="1064"/></region>
+<text>
+<par align="Justified" lineSpacing="860">
+<line baseline="1058" l="355" t="1035" r="369" b="1059"><formatting lang="EnglishUnitedStates">1&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1805" t="1027" r="1900" b="1064"><region><rect l="1805" t="1027" r="1900" b="1064"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="1058" l="1811" t="1033" r="1894" b="1058"><formatting lang="EnglishUnitedStates">9.252&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2050" t="1027" r="2214" b="1070"><region><rect l="2050" t="1027" r="2214" b="1070"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="1058" l="2056" t="1033" r="2208" b="1064"><formatting lang="EnglishUnitedStates">92,520.00&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1744" t="1133" r="1771" b="1179"><region><rect l="1744" t="1133" r="1771" b="1179"/></region>
+<text>
+<par align="Justified" lineSpacing="860">
+<line baseline="1173" l="1750" t="1139" r="1765" b="1173"><formatting lang="EnglishUnitedStates">$&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1972" t="1133" r="1999" b="1179"><region><rect l="1972" t="1133" r="1999" b="1179"/></region>
+<text>
+<par align="Justified" lineSpacing="860">
+<line baseline="1173" l="1978" t="1139" r="1993" b="1173"><formatting lang="EnglishUnitedStates">$&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1572" t="1136" r="1677" b="1173"><region><rect l="1572" t="1136" r="1677" b="1173"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="1167" l="1578" t="1142" r="1671" b="1167"><formatting lang="EnglishUnitedStates">17500&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="349" t="1137" r="376" b="1174"><region><rect l="349" t="1137" r="376" b="1174"/></region>
+<text>
+<par align="Justified" lineSpacing="860">
+<line baseline="1168" l="355" t="1145" r="370" b="1169"><formatting lang="EnglishUnitedStates">2&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1786" t="1137" r="1900" b="1174"><region><rect l="1786" t="1137" r="1900" b="1174"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="1168" l="1792" t="1143" r="1895" b="1169"><formatting lang="EnglishUnitedStates">14.049&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2030" t="1137" r="2214" b="1180"><region><rect l="2030" t="1137" r="2214" b="1180"/></region>
+<text>
+<par align="Right" lineSpacing="860">
+<line baseline="1168" l="2036" t="1144" r="2208" b="1174"><formatting lang="EnglishUnitedStates">245,857.50&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="451" t="1189" r="1402" b="1235"><region><rect l="451" t="1189" r="1402" b="1235"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="1222" l="457" t="1195" r="1396" b="1229"><formatting lang="EnglishUnitedStates">Analog to Digital Converters - ADC 16-Bit 200KSPS Serial Out&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="322" t="2427" r="619" b="2456"><region><rect l="322" t="2427" r="619" b="2456"/></region>
+<text>
+<par lineSpacing="630">
+<line baseline="2450" l="328" t="2433" r="613" b="2450"><formatting lang="EnglishUnitedStates">TERMS AND CONDITIONS&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2031" t="2438" r="2214" b="2481"><region><rect l="2031" t="2438" r="2214" b="2481"/></region>
+<text>
+<par align="Right" lineSpacing="860">
+<line baseline="2469" l="2036" t="2445" r="2208" b="2475"><formatting lang="EnglishUnitedStates">338,377.50&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1725" t="2439" r="1913" b="2476"><region><rect l="1725" t="2439" r="1913" b="2476"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="2470" l="1731" t="2445" r="1907" b="2470"><formatting lang="EnglishUnitedStates">SUB-TOTAL&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1787" t="2494" r="1911" b="2532"><region><rect l="1787" t="2494" r="1911" b="2532"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="2525" l="1793" t="2500" r="1905" b="2526"><formatting lang="EnglishUnitedStates">GST 7%&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1670" t="2552" r="1913" b="2589"><region><rect l="1670" t="2552" r="1913" b="2589"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="2583" l="1676" t="2558" r="1907" b="2583"><formatting lang="EnglishUnitedStates">GRANDTOTAL&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1971" t="2434" r="1999" b="2593"><region><rect l="1971" t="2434" r="1999" b="2593"/></region>
+<text>
+<par align="Justified" lineSpacing="860">
+<line baseline="2474" l="1978" t="2440" r="1993" b="2474"><formatting lang="EnglishUnitedStates">$&#xA;</formatting></line></par>
+<par align="Justified" lineSpacing="860">
+<line baseline="2531" l="1978" t="2497" r="1993" b="2531"><formatting lang="EnglishUnitedStates">$&#xA;</formatting></line></par>
+<par align="Justified" lineSpacing="860">
+<line baseline="2587" l="1977" t="2553" r="1993" b="2587"><formatting lang="EnglishUnitedStates">$&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2029" t="2495" r="2214" b="2594"><region><rect l="2029" t="2495" r="2214" b="2594"/></region>
+<text>
+<par align="Right" lineSpacing="860">
+<line baseline="2526" l="2056" t="2503" r="2207" b="2532"><formatting lang="EnglishUnitedStates">23,686.43&#xA;</formatting></line></par>
+<par align="Right" lineSpacing="860">
+<line baseline="2582" l="2035" t="2557" r="2208" b="2588"><formatting lang="EnglishUnitedStates">362,063.93&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="450" t="1023" r="1429" b="1173"><region><rect l="450" t="1023" r="1429" b="1173"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="1057" l="456" t="1029" r="962" b="1062"><formatting lang="EnglishUnitedStates">Texas Instruments INA118U/2K5&#xA;</formatting></line></par>
+<par lineSpacing="860">
+<line baseline="1112" l="459" t="1085" r="1423" b="1119"><formatting lang="EnglishUnitedStates">Instrumentation Amplifiers Precision Low Power Instrum Amp&#xA;</formatting></line></par>
+<par lineSpacing="860">
+<line baseline="1167" l="456" t="1142" r="935" b="1167"><formatting lang="EnglishUnitedStates">Texas Instruments TLC4545IDR&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="324" t="2470" r="1123" b="2567"><region><rect l="324" t="2470" r="1123" b="2567"/></region>
+<text>
+<par lineSpacing="630" isListItem="1" lstLvl="0" lstNum="1">
+<line baseline="2494" l="331" t="2476" r="1117" b="2499"><formatting lang="EnglishUnitedStates">1. All goods remain the property of Pte Ltd, untill full payment is received.&#xA;</formatting></line></par>
+<par lineSpacing="630" isListItem="1" lstLvl="0" lstNum="2">
+<line baseline="2524" l="330" t="2506" r="859" b="2529"><formatting lang="EnglishUnitedStates">2. Payments shall be made to: UOB bank account:&#xA;</formatting></line></par>
+<par startIndent="700" lineSpacing="570">
+<line baseline="2556" l="359" t="2537" r="978" b="2561"><formatting lang="EnglishUnitedStates">Swift code:Uobvbsgsg/Bank code:7375/Branch code:041&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="325" t="939" r="877" b="987"><region><rect l="325" t="939" r="877" b="987"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="975" l="331" t="945" r="871" b="981"><formatting lang="EnglishUnitedStates">S/N DESCRIPTION OF GOODS&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1585" t="940" r="2230" b="988"><region><rect l="1585" t="940" r="2230" b="988"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="974" l="1591" t="946" r="2224" b="982"><formatting lang="EnglishUnitedStates">QTY UNIT PRICE AMOUNT (SGD)&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1714" t="2918" r="2052" b="2964"><region><rect l="1714" t="2918" r="2052" b="2964"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="2951" l="1720" t="2924" r="2046" b="2958"><formatting lang="EnglishUnitedStates">Authorised Signature&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="" l="301" t="606" r="2250" b="614"><region><rect l="301" t="606" r="2250" b="614"/></region>
+<separator type="Black" thickness="8"><start x="301" y="610"/><end x="2250" y="610"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="301" t="881" r="2250" b="889"><region><rect l="301" t="881" r="2250" b="889"/></region>
+<separator type="Black" thickness="8"><start x="301" y="885"/><end x="2250" y="885"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="301" t="922" r="2250" b="929"><region><rect l="301" t="922" r="2250" b="929"/></region>
+<separator type="Black" thickness="7"><start x="301" y="925"/><end x="2250" y="925"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="301" t="993" r="2250" b="1001"><region><rect l="301" t="993" r="2250" b="1001"/></region>
+<separator type="Black" thickness="8"><start x="301" y="997"/><end x="2250" y="997"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="301" t="2408" r="2228" b="2416"><region><rect l="301" t="2408" r="2228" b="2416"/></region>
+<separator type="Black" thickness="8"><start x="301" y="2412"/><end x="2228" y="2412"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1535" t="2611" r="2228" b="2619"><region><rect l="1535" t="2611" r="2228" b="2619"/></region>
+<separator type="Black" thickness="8"><start x="1535" y="2615"/><end x="2228" y="2615"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1535" t="2907" r="2228" b="2912"><region><rect l="1535" t="2907" r="2228" b="2912"/></region>
+<separator type="Black" thickness="5"><start x="1535" y="2909"/><end x="2228" y="2909"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="301" t="1018" r="303" b="2394"><region><rect l="301" t="1018" r="303" b="2394"/></region>
+<separator type="Black" thickness="2"><start x="302" y="1018"/><end x="302" y="2394"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="418" t="1018" r="419" b="2394"><region><rect l="418" t="1018" r="419" b="2394"/></region>
+<separator type="Black" thickness="1"><start x="418" y="1018"/><end x="418" y="2394"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1535" t="1018" r="1537" b="2394"><region><rect l="1535" t="1018" r="1537" b="2394"/></region>
+<separator type="Black" thickness="2"><start x="1536" y="1018"/><end x="1536" y="2394"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1535" t="2431" r="1537" b="2597"><region><rect l="1535" t="2431" r="1537" b="2597"/></region>
+<separator type="Black" thickness="2"><start x="1536" y="2431"/><end x="1536" y="2597"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1707" t="1018" r="1709" b="2394"><region><rect l="1707" t="1018" r="1709" b="2394"/></region>
+<separator type="Black" thickness="2"><start x="1708" y="1018"/><end x="1708" y="2394"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1935" t="1018" r="1936" b="2394"><region><rect l="1935" t="1018" r="1936" b="2394"/></region>
+<separator type="Black" thickness="1"><start x="1935" y="1018"/><end x="1935" y="2394"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1935" t="2431" r="1936" b="2597"><region><rect l="1935" t="2431" r="1936" b="2597"/></region>
+<separator type="Black" thickness="1"><start x="1935" y="2431"/><end x="1935" y="2597"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="2248" t="1018" r="2250" b="2597"><region><rect l="2248" t="1018" r="2250" b="2597"/></region>
+<separator type="Black" thickness="2"><start x="2249" y="1018"/><end x="2249" y="2597"/>
+</separator>
+</block>
+</page>
+</document>

@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="ABBYY FineReader Engine 12" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="2480" height="3506" resolution="300" originalCoords="1">
+<block blockType="Picture" blockName="" l="144" t="154" r="422" b="348"><region><rect l="144" t="154" r="422" b="348"/></region>
+</block>
+<block blockType="Text" blockName="" l="83" t="618" r="693" b="724"><region><rect l="83" t="618" r="693" b="724"/></region>
+<text>
+<par lineSpacing="1150">
+<line baseline="653" l="90" t="624" r="217" b="653"><formatting lang="EnglishUnitedStates">Bill To:&#xA;</formatting></line></par>
+<par lineSpacing="1150">
+<line baseline="716" l="89" t="689" r="687" b="718"><formatting lang="EnglishUnitedStates">WEG SOUTH EAST ASIA SDN BHD&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="900" t="105" r="1738" b="568"><region><rect l="900" t="105" r="1738" b="568"/></region>
+<text>
+<par leftIndent="13400" lineSpacing="1380">
+<line baseline="150" l="985" t="111" r="1651" b="150"><formatting lang="EnglishUnitedStates">WEG SINGAPORE PTE LTD&#xA;</formatting></line></par>
+<par align="Center" lineSpacing="1200">
+<line baseline="218" l="906" t="188" r="1732" b="225"><formatting lang="EnglishUnitedStates">67B JOO KOON CIRCLE, SINGAPORE 629082</formatting></line>
+<line baseline="266" l="936" t="238" r="1702" b="267"><formatting lang="EnglishUnitedStates">TEL: +65-6862 2220 FAX: +65-6862 3330</formatting></line>
+<line baseline="318" l="1095" t="290" r="1547" b="327"><formatting lang="EnglishUnitedStates">E-mail: info-sg@weg.net&#xA;</formatting></line></par>
+<par leftIndent="14500" lineSpacing="1200">
+<line baseline="370" l="1030" t="342" r="1605" b="379"><formatting lang="EnglishUnitedStates">GST / Co. Regn. No 200514472H&#xA;</formatting></line></par>
+<par leftIndent="15700" lineSpacing="1950">
+<line baseline="561" l="1083" t="506" r="1556" b="562"><formatting lang="EnglishUnitedStates">TAX INVOICE&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Table" blockName="" l="1878" t="252" r="2384" b="573"><region><rect l="1878" t="252" r="2384" b="573"/></region>
+<row>
+<cell rightBorder="White" width="227" height="78">
+<text>
+<par lineSpacing="1030">
+<line baseline="307" l="1888" t="282" r="2066" b="307"><formatting lang="EnglishUnitedStates">Invoice No.&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" width="279" height="78">
+<text>
+<par lineSpacing="1150">
+<line baseline="310" l="2122" t="282" r="2379" b="311"><formatting lang="EnglishUnitedStates">: 2019100032&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell rightBorder="White" width="227" height="80">
+<text>
+<par lineSpacing="1030">
+<line baseline="387" l="1888" t="362" r="2090" b="387"><formatting lang="EnglishUnitedStates">Invoice Date&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" width="279" height="80">
+<text>
+<par lineSpacing="1150">
+<line baseline="390" l="2122" t="362" r="2338" b="390"><formatting lang="EnglishUnitedStates">: 04.01.2019&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell rightBorder="White" width="227" height="80">
+<text>
+<par lineSpacing="1030">
+<line baseline="467" l="1888" t="442" r="2035" b="467"><formatting lang="EnglishUnitedStates">Due Date&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" width="279" height="80">
+<text>
+<par lineSpacing="1150">
+<line baseline="471" l="2122" t="443" r="2338" b="471"><formatting lang="EnglishUnitedStates">: 03.02.2019&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell rightBorder="White" width="227" height="83">
+<text>
+<par lineSpacing="1030">
+<line baseline="548" l="1888" t="522" r="2074" b="555"><formatting lang="EnglishUnitedStates">Total Pages&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" width="279" height="83">
+<text>
+<par lineSpacing="1150">
+<line baseline="551" l="2122" t="522" r="2268" b="560"><formatting lang="EnglishUnitedStates">: 1 / 1&#xA;</formatting></line></par>
+</text></cell></row>
+</block>
+<block blockType="Text" blockName="" l="1302" t="617" r="1912" b="723"><region><rect l="1302" t="617" r="1912" b="723"/></region>
+<text>
+<par lineSpacing="1150">
+<line baseline="652" l="1309" t="623" r="1455" b="661"><formatting lang="EnglishUnitedStates">Ship To:&#xA;</formatting></line></par>
+<par lineSpacing="1150">
+<line baseline="716" l="1308" t="688" r="1906" b="717"><formatting lang="EnglishUnitedStates">WEG SOUTH EAST ASIA SDN BHD&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="83" t="742" r="981" b="1086"><region><rect l="83" t="742" r="981" b="1086"/></region>
+<text>
+<par lineSpacing="1152">
+<line baseline="777" l="92" t="748" r="961" b="786"><formatting lang="EnglishUnitedStates">(Formerly known as Watt Euro-Drive (MJ Sdn Bhd)</formatting></line>
+<line baseline="825" l="91" t="796" r="975" b="834"><formatting lang="EnglishUnitedStates">No. 22, Jalan Utarid U5/26, Mah Sing Industrial Park</formatting></line>
+<line baseline="873" l="90" t="844" r="652" b="882"><formatting lang="EnglishUnitedStates">Shah Alam, Selangor Darul Ehsan&#xA;</formatting></line></par>
+<par lineSpacing="1152">
+<line baseline="923" l="90" t="894" r="355" b="929"><formatting lang="EnglishUnitedStates">Malaysia 40150&#xA;</formatting></line></par>
+<par lineSpacing="1152">
+<line baseline="972" l="89" t="941" r="608" b="980"><formatting lang="EnglishUnitedStates">Telephone : 60378591626&#xA;</formatting></line></par>
+<par lineSpacing="1152">
+<line baseline="1023" l="90" t="994" r="607" b="1024"><formatting lang="EnglishUnitedStates">Fax : 60378591623&#xA;</formatting></line></par>
+<par lineSpacing="1152">
+<line baseline="1071" l="90" t="1042" r="602" b="1080"><formatting lang="EnglishUnitedStates">Contact : Ms. Carol Ong</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1303" t="741" r="2197" b="1085"><region><rect l="1303" t="741" r="2197" b="1085"/></region>
+<text>
+<par lineSpacing="1164">
+<line baseline="777" l="1311" t="747" r="2176" b="785"><formatting lang="EnglishUnitedStates">(Formerly known as Watt Euro-Drive (M) Sdn Bhd]</formatting></line>
+<line baseline="825" l="1310" t="796" r="2191" b="833"><formatting lang="EnglishUnitedStates">No. 22, Jalan Utarid U5/26, Mah Sing Industrial Park</formatting></line>
+<line baseline="873" l="1309" t="844" r="1995" b="882"><formatting lang="EnglishUnitedStates">Shah Alam, Selangor Darul Ehsan, 40150&#xA;</formatting></line></par>
+<par align="Justified" lineSpacing="1164">
+<line baseline="922" l="1310" t="893" r="1574" b="928"><formatting lang="EnglishUnitedStates">Malaysia 40150&#xA;</formatting></line></par>
+<par align="Justified" lineSpacing="1164">
+<line baseline="970" l="1309" t="942" r="1504" b="976"><formatting lang="EnglishUnitedStates">Telephone&#xA;</formatting></line></par>
+<par align="Justified" lineSpacing="1164">
+<line baseline="1021" l="1309" t="991" r="1826" b="1023"><formatting lang="EnglishUnitedStates">Fax : 60378591623&#xA;</formatting></line></par>
+<par align="Justified" lineSpacing="1164">
+<line baseline="1079" l="1310" t="1051" r="1449" b="1079"><formatting lang="EnglishUnitedStates">Contact&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Table" blockName="" l="80" t="1088" r="2396" b="1252"><region><rect l="80" t="1088" r="2396" b="1252"/></region>
+<row>
+<cell width="258" height="81">
+<text>
+<par align="Center" lineSpacing="1030">
+<line baseline="1145" l="141" t="1119" r="274" b="1153"><formatting lang="EnglishUnitedStates">Ship Via&#xA;</formatting></line></par>
+</text></cell>
+<cell width="279" height="81">
+<text>
+<par align="Center" lineSpacing="1030">
+<line baseline="1145" l="382" t="1119" r="579" b="1152"><formatting lang="EnglishUnitedStates">Salesperson&#xA;</formatting></line></par>
+</text></cell>
+<cell width="341" height="81">
+<text>
+<par align="Center" lineSpacing="1030">
+<line baseline="1145" l="658" t="1120" r="917" b="1152"><formatting lang="EnglishUnitedStates">Payment Terms&#xA;</formatting></line></par>
+</text></cell>
+<cell width="299" height="81">
+<text>
+<par align="Center" lineSpacing="1030">
+<line baseline="1145" l="1007" t="1119" r="1210" b="1152"><formatting lang="EnglishUnitedStates">Prepared By&#xA;</formatting></line></par>
+</text></cell>
+<cell width="340" height="81">
+<text>
+<par align="Center" lineSpacing="1030">
+<line baseline="1145" l="1335" t="1119" r="1523" b="1152"><formatting lang="EnglishUnitedStates">Ordered By&#xA;</formatting></line></par>
+</text></cell>
+<cell width="299" height="81">
+<text>
+<par align="Center" lineSpacing="1030">
+<line baseline="1144" l="1684" t="1119" r="1810" b="1144"><formatting lang="EnglishUnitedStates">D.O. No.&#xA;</formatting></line></par>
+</text></cell>
+<cell width="500" height="81">
+<text>
+<par align="Center" lineSpacing="1030">
+<line baseline="1144" l="2083" t="1119" r="2206" b="1145"><formatting lang="EnglishUnitedStates">P.O. No.&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell width="258" height="83">
+<text>
+<par align="Center" lineSpacing="1150">
+<line baseline="1229" l="108" t="1201" r="307" b="1238"><formatting lang="EnglishUnitedStates">Tpt Pick-Up&#xA;</formatting></line></par>
+</text></cell>
+<cell width="279" height="83">
+<text>
+<par leftIndent="900" lineSpacing="1150"></par>
+</text></cell>
+<cell width="341" height="83">
+<text>
+<par align="Center" lineSpacing="1150">
+<line baseline="1229" l="722" t="1201" r="854" b="1237"><formatting lang="EnglishUnitedStates">30 Days&#xA;</formatting></line></par>
+</text></cell>
+<cell width="299" height="83">
+<text>
+<par align="Center" lineSpacing="1150">
+<line baseline="1229" l="1022" t="1201" r="1193" b="1237"><formatting lang="EnglishUnitedStates">Angie Lim&#xA;</formatting></line></par>
+</text></cell>
+<cell width="340" height="83">
+<text>
+<par align="Center" lineSpacing="1150">
+<line baseline="1229" l="1378" t="1201" r="1479" b="1229"><formatting lang="EnglishUnitedStates">Azura&#xA;</formatting></line></par>
+</text></cell>
+<cell width="299" height="83">
+<text>
+<par align="Center" lineSpacing="1150">
+<line baseline="1228" l="1643" t="1200" r="1850" b="1228"><formatting lang="EnglishUnitedStates">201940032&#xA;</formatting></line></par>
+</text></cell>
+<cell width="500" height="83">
+<text>
+<par align="Center" lineSpacing="1150">
+<line baseline="1229" l="2048" t="1200" r="2242" b="1229"><formatting lang="EnglishUnitedStates">M2019-002&#xA;</formatting></line></par>
+</text></cell></row>
+</block>
+<block blockType="Text" blockName="" l="74" t="1305" r="2402" b="1478"><region><rect l="74" t="1305" r="2402" b="1478"/></region>
+<text>
+<par lineSpacing="1030">
+<line baseline="1338" l="89" t="1311" r="2388" b="1352"><formatting lang="EnglishUnitedStates">No. Item Number / Description_Qty / UOM_Unit Price_Total&#xA;</formatting></line></par>
+<par lineSpacing="860">
+<line baseline="1399" l="91" t="1373" r="2387" b="1400"><formatting lang="EnglishUnitedStates">1 KTM075AH0050 1 Pcs EUR 589.27 EUR 589.27&#xA;</formatting></line></par>
+<par startIndent="3800" lineSpacing="860">
+<line baseline="1471" l="221" t="1445" r="448" b="1472"><formatting lang="EnglishUnitedStates">Pre-assembled&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="80" t="2381" r="266" b="2426"><region><rect l="80" t="2381" r="266" b="2426"/></region>
+<text>
+<par lineSpacing="1150">
+<line baseline="2414" l="89" t="2387" r="258" b="2415"><formatting lang="EnglishUnitedStates">REMARK:&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1546" t="2382" r="1703" b="2420"><region><rect l="1546" t="2382" r="1703" b="2420"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="2414" l="1552" t="2388" r="1697" b="2414"><formatting lang="EnglishUnitedStates">Sub-Total&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2205" t="2383" r="2395" b="2420"><region><rect l="2205" t="2383" r="2395" b="2420"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="2414" l="2211" t="2389" r="2389" b="2414"><formatting lang="EnglishUnitedStates">EUR 589.27&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="60" t="2840" r="1428" b="3043"><region><rect l="60" t="2840" r="1428" b="3043"/></region>
+<text>
+<par lineSpacing="984" isListItem="1" lstLvl="0" lstNum="1">
+<line baseline="2870" l="68" t="2846" r="762" b="2877"><formatting lang="EnglishUnitedStates">1) Goods sold are not returnable or refundable.&#xA;</formatting></line></par>
+<par lineSpacing="984" isListItem="1" lstLvl="0" lstNum="2">
+<line baseline="2910" l="67" t="2886" r="1349" b="2918"><formatting lang="EnglishUnitedStates">2) Cheques should be crossed A/C payee &amp; made payable to &apos;WEG SINGAPORE PTE LTD&apos;.&#xA;</formatting></line></par>
+<par lineSpacing="984" isListItem="1" lstLvl="0" lstNum="3">
+<line baseline="2950" l="67" t="2927" r="968" b="2958"><formatting lang="EnglishUnitedStates">3) 2% of Interest per month will be imposed on late payment.&#xA;</formatting></line></par>
+<par lineSpacing="984" isListItem="1" lstLvl="0" lstNum="4">
+<line baseline="2991" l="66" t="2967" r="1422" b="2998"><formatting lang="EnglishUnitedStates">4) Any objection to the validity of these charges must be made within 7 days from the date of</formatting></line>
+<line baseline="3031" l="66" t="3007" r="1099" b="3037"><formatting lang="EnglishUnitedStates">this invoice otherwise it is assumed that this bill is accepted as correct&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1546" t="2633" r="1752" b="2731"><region><rect l="1546" t="2633" r="1752" b="2731"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="2664" l="1552" t="2639" r="1677" b="2666"><formatting lang="EnglishUnitedStates">0 % GST&#xA;</formatting></line></par>
+<par lineSpacing="1030">
+<line baseline="2724" l="1552" t="2698" r="1746" b="2725"><formatting lang="EnglishUnitedStates">Grand Total&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2205" t="2625" r="2395" b="2731"><region><rect l="2205" t="2625" r="2395" b="2731"/></region>
+<text>
+<par align="Right" lineSpacing="860">
+<line baseline="2656" l="2252" t="2631" r="2389" b="2656"><formatting lang="EnglishUnitedStates">EUR 0.00&#xA;</formatting></line></par>
+<par align="Right" lineSpacing="860">
+<line baseline="2724" l="2211" t="2699" r="2389" b="2725"><formatting lang="EnglishUnitedStates">EUR 589.27&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1781" t="3022" r="2194" b="3060"><region><rect l="1781" t="3022" r="2194" b="3060"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="3054" l="1787" t="3029" r="2188" b="3055"><formatting lang="EnglishUnitedStates">AUTHORISED SIGNATURE&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Picture" blockName="" l="1724" t="2769" r="2207" b="3024"><region><rect l="1724" t="2769" r="2207" b="3024"/></region>
+</block>
+<block blockType="Text" blockName="" l="81" t="3124" r="323" b="3162"><region><rect l="81" t="3124" r="323" b="3162"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="3155" l="87" t="3130" r="317" b="3156"><formatting lang="EnglishUnitedStates">Banker&apos;s Name&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="382" t="3123" r="1413" b="3213"><region><rect l="382" t="3123" r="1413" b="3213"/></region>
+<text>
+<par lineSpacing="1056">
+<line baseline="3155" l="388" t="3129" r="1407" b="3156"><formatting lang="EnglishUnitedStates">; HONG KONG AND SHANGHAI BANKING CORPORATION LIMITED</formatting></line>
+<line baseline="3199" l="409" t="3173" r="1261" b="3207"><formatting lang="EnglishUnitedStates">SGD A/c. No: 147-085575-001, Swift Code: HSBCSGSG&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1485" t="3123" r="2088" b="3249"><region><rect l="1485" t="3123" r="2088" b="3249"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="3154" l="1491" t="3129" r="1967" b="3162"><formatting lang="EnglishUnitedStates">Address ; 21 COLLYER QUAY,&#xA;</formatting></line></par>
+<par startIndent="4400" lineSpacing="860">
+<line baseline="3198" l="1671" t="3173" r="2082" b="3202"><formatting lang="EnglishUnitedStates">HSBC BUILDING LEVEL 14,&#xA;</formatting></line></par>
+<par align="Justified" startIndent="4400" lineSpacing="860">
+<line baseline="3243" l="1671" t="3217" r="1980" b="3243"><formatting lang="EnglishUnitedStates">SINGAPORE 049320&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="81" t="3276" r="1298" b="3365"><region><rect l="81" t="3276" r="1298" b="3365"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="3307" l="87" t="3282" r="1093" b="3308"><formatting lang="EnglishUnitedStates">Banker&apos;s Name : STANDARD CHARTERED BANK SINGAPORE&#xA;</formatting></line></par>
+<par leftIndent="7800" lineSpacing="860">
+<line baseline="3351" l="409" t="3325" r="1292" b="3359"><formatting lang="EnglishUnitedStates">USD A/c. No: 017-024-8593, Swift code: SCBLSGSGXXX&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1484" t="3275" r="2224" b="3401"><region><rect l="1484" t="3275" r="2224" b="3401"/></region>
+<text>
+<par lineSpacing="860">
+<line baseline="3307" l="1490" t="3281" r="2218" b="3307"><formatting lang="EnglishUnitedStates">Address : SINGAPORE WHOLESALE BANKING&#xA;</formatting></line></par>
+<par align="Center" lineSpacing="860">
+<line baseline="3350" l="1671" t="3325" r="2067" b="3351"><formatting lang="EnglishUnitedStates">6 BATTERY ROAD #23-00&#xA;</formatting></line></par>
+<par align="Justified" startIndent="4400" lineSpacing="860">
+<line baseline="3394" l="1671" t="3369" r="1980" b="3395"><formatting lang="EnglishUnitedStates">SINGAPORE 049909&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="SeparatorsBox" blockName="" l="80" t="1088" r="2396" b="1252"><region><rect l="80" t="1088" r="2396" b="1094"/><rect l="80" t="1094" r="2396" b="1246"/><rect l="80" t="1246" r="2396" b="1252"/></region>
+<separatorsBox>
+<separator type="Black" thickness="5"><start x="80" y="1091"/><end x="2396" y="1091"/>
+</separator>
+<separator type="Black" thickness="5"><start x="80" y="1249"/><end x="2396" y="1249"/>
+</separator>
+<separator type="Black" thickness="4"><start x="82" y="1090"/><end x="82" y="1252"/>
+</separator>
+<separator type="Black" thickness="4"><start x="2394" y="1088"/><end x="2394" y="1250"/>
+</separator>
+</separatorsBox>
+</block>
+<block blockType="SeparatorsBox" blockName="" l="1878" t="252" r="2384" b="573"><region><rect l="1878" t="252" r="2384" b="256"/><rect l="1878" t="256" r="2384" b="568"/><rect l="1878" t="568" r="2384" b="573"/></region>
+<separatorsBox>
+<separator type="Black" thickness="4"><start x="1878" y="254"/><end x="2384" y="254"/>
+</separator>
+<separator type="Black" thickness="5"><start x="1878" y="570"/><end x="2384" y="570"/>
+</separator>
+<separator type="Black" thickness="4"><start x="1880" y="252"/><end x="1880" y="572"/>
+</separator>
+<separator type="Black" thickness="5"><start x="2381" y="252"/><end x="2381" y="572"/>
+</separator>
+</separatorsBox>
+</block>
+<block blockType="Separator" blockName="" l="1878" t="328" r="2384" b="332"><region><rect l="1878" t="328" r="2384" b="332"/></region>
+<separator type="Black" thickness="4"><start x="1878" y="330"/><end x="2384" y="330"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1878" t="408" r="2384" b="412"><region><rect l="1878" t="408" r="2384" b="412"/></region>
+<separator type="Black" thickness="4"><start x="1878" y="410"/><end x="2384" y="410"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1878" t="488" r="2384" b="492"><region><rect l="1878" t="488" r="2384" b="492"/></region>
+<separator type="Black" thickness="4"><start x="1878" y="490"/><end x="2384" y="490"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="80" t="1166" r="2396" b="1172"><region><rect l="80" t="1166" r="2396" b="1170"/><rect l="80" t="1170" r="502" b="1172"/></region>
+<separator type="Black" thickness="5"><start x="80" y="1169"/><end x="2396" y="1169"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="80" t="1290" r="2396" b="1296"><region><rect l="305" t="1290" r="2396" b="1291"/><rect l="80" t="1291" r="2396" b="1296"/></region>
+<separator type="Black" thickness="5"><start x="80" y="1293"/><end x="2396" y="1293"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="80" t="1346" r="2396" b="1353"><region><rect l="1614" t="1346" r="1621" b="1347"/><rect l="1487" t="1347" r="2396" b="1348"/><rect l="80" t="1348" r="2396" b="1352"/><rect l="80" t="1352" r="1487" b="1353"/></region>
+<separator type="Black" thickness="5"><start x="80" y="1349"/><end x="2396" y="1349"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="78" t="2366" r="2398" b="2372"><region><rect l="641" t="2366" r="2398" b="2367"/><rect l="78" t="2367" r="2398" b="2372"/></region>
+<separator type="Black" thickness="5"><start x="78" y="2369"/><end x="2398" y="2369"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="86" t="2415" r="260" b="2420"><region><rect l="86" t="2415" r="260" b="2420"/></region>
+<separator type="Black" thickness="4"><start x="86" y="2417"/><end x="260" y="2417"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="2040" t="2680" r="2397" b="2686"><region><rect l="2040" t="2680" r="2397" b="2686"/></region>
+<separator type="Black" thickness="6"><start x="2040" y="2683"/><end x="2397" y="2683"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="2040" t="2730" r="2400" b="2734"><region><rect l="2040" t="2730" r="2400" b="2734"/></region>
+<separator type="Black" thickness="4"><start x="2040" y="2732"/><end x="2400" y="2732"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1582" t="3014" r="2398" b="3020"><region><rect l="1582" t="3014" r="2398" b="3020"/></region>
+<separator type="Black" thickness="6"><start x="1582" y="3017"/><end x="2398" y="3017"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="58" t="3070" r="2399" b="3078"><region><rect l="1601" t="3070" r="2399" b="3071"/><rect l="510" t="3071" r="2399" b="3072"/><rect l="58" t="3072" r="2399" b="3076"/><rect l="58" t="3076" r="510" b="3078"/></region>
+<separator type="Black" thickness="5"><start x="58" y="3074"/><end x="2399" y="3074"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="336" t="1090" r="340" b="1250"><region><rect l="336" t="1090" r="340" b="1250"/></region>
+<separator type="Black" thickness="4"><start x="338" y="1090"/><end x="338" y="1250"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="614" t="1090" r="620" b="1250"><region><rect l="614" t="1090" r="620" b="1250"/></region>
+<separator type="Black" thickness="6"><start x="617" y="1090"/><end x="617" y="1250"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="956" t="1090" r="960" b="1250"><region><rect l="956" t="1090" r="960" b="1250"/></region>
+<separator type="Black" thickness="4"><start x="958" y="1090"/><end x="958" y="1250"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1254" t="1090" r="1260" b="1250"><region><rect l="1254" t="1090" r="1260" b="1250"/></region>
+<separator type="Black" thickness="5"><start x="1257" y="1090"/><end x="1257" y="1250"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1594" t="1089" r="1600" b="1250"><region><rect l="1594" t="1089" r="1600" b="1250"/></region>
+<separator type="Black" thickness="6"><start x="1597" y="1089"/><end x="1597" y="1250"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1894" t="1088" r="1898" b="1250"><region><rect l="1894" t="1088" r="1898" b="1250"/></region>
+<separator type="Black" thickness="4"><start x="1896" y="1088"/><end x="1896" y="1250"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1558" t="952" r="1562" b="1079"><region><rect l="1558" t="952" r="1562" b="1079"/></region>
+<separator type="Dotted" thickness="4"><start x="1560" y="952"/><end x="1560" y="1079"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="2122" t="290" r="2126" b="548"><region><rect l="2122" t="290" r="2126" b="548"/></region>
+<separator type="Dotted" thickness="4"><start x="2124" y="290"/><end x="2124" y="548"/>
+</separator>
+</block>
+<block blockType="Picture" blockName="" l="140" t="152" r="422" b="349"><region><rect l="140" t="152" r="422" b="349"/></region>
+</block>
+</page>
+</document>

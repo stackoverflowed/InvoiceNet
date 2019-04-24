@@ -1,0 +1,1832 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="ABBYY FineReader Engine 12" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="2480" height="3506" resolution="300" originalCoords="1">
+<block blockType="Picture" blockName="" l="122" t="164" r="433" b="474"><region><rect l="123" t="164" r="277" b="165"/><rect l="123" t="165" r="433" b="307"/><rect l="122" t="307" r="433" b="308"/><rect l="122" t="308" r="432" b="473"/><rect l="275" t="473" r="432" b="474"/></region>
+</block>
+<block blockType="Text" blockName="" l="499" t="163" r="1706" b="566"><region><rect l="501" t="163" r="662" b="164"/><rect l="501" t="164" r="855" b="165"/><rect l="501" t="165" r="1048" b="166"/><rect l="501" t="166" r="1241" b="167"/><rect l="501" t="167" r="1434" b="168"/><rect l="501" t="168" r="1626" b="169"/><rect l="501" t="169" r="1706" b="307"/><rect l="500" t="307" r="1706" b="308"/><rect l="500" t="308" r="1705" b="499"/><rect l="499" t="499" r="1705" b="501"/><rect l="499" t="501" r="1704" b="560"/><rect l="661" t="560" r="1704" b="561"/><rect l="854" t="561" r="1704" b="562"/><rect l="1046" t="562" r="1704" b="563"/><rect l="1239" t="563" r="1704" b="564"/><rect l="1432" t="564" r="1704" b="565"/><rect l="1625" t="565" r="1704" b="566"/></region>
+<text>
+<par align="Center" lineSpacing="1840">
+<line baseline="331" l="507" t="267" r="1700" b="343"><formatting lang="EnglishUnitedStates">CENTRAL ENGINEERING (PTE) LTD&#xA;</formatting></line></par>
+<par align="Center" lineSpacing="912">
+<line baseline="368" l="784" t="333" r="1424" b="370"><formatting lang="EnglishUnitedStates">113-115, Tyrwhitt Road, Singapore 207544&#xA;</formatting></line></par>
+<par align="Center" lineSpacing="912">
+<line baseline="405" l="726" t="370" r="1479" b="407"><formatting lang="EnglishUnitedStates">Tel: 6294 2111 (8 lines) Fax: 6296 5231, 6295 5833</formatting></line>
+<line baseline="443" l="800" t="408" r="1405" b="439"><formatting lang="EnglishUnitedStates">A/C Tel: 6296 6937/8 A/C Fax: 6297 2584&#xA;</formatting></line></par>
+<par align="Center" lineSpacing="912">
+<line baseline="481" l="611" t="445" r="1593" b="484"><formatting lang="EnglishUnitedStates">8 Benoi Place, Singapore 629928. Tel: 6863 1655 (3 lines) Fax: 6862 0406</formatting></line>
+<line baseline="520" l="798" t="483" r="1406" b="521"><formatting lang="EnglishUnitedStates">E-mail: sales ©centralengineering.com.sg&#xA;</formatting></line></par>
+<par align="Center" lineSpacing="912">
+<line baseline="557" l="826" t="521" r="1378" b="558"><formatting lang="EnglishUnitedStates">accounts@centralengineering.com.sg&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1780" t="281" r="2060" b="408"><region><rect l="1781" t="281" r="1819" b="282"/><rect l="1781" t="282" r="2012" b="283"/><rect l="1781" t="283" r="2060" b="307"/><rect l="1780" t="307" r="2060" b="308"/><rect l="1780" t="308" r="2059" b="406"/><rect l="1818" t="406" r="2059" b="407"/><rect l="2010" t="407" r="2059" b="408"/></region>
+<text>
+<par lineSpacing="1752">
+<line baseline="331" l="1786" t="287" r="2054" b="330"><formatting lang="EnglishUnitedStates">Tax Invoice</formatting></line>
+<line baseline="403" l="1788" t="359" r="1943" b="401"><formatting lang="EnglishUnitedStates">146151&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1128" t="595" r="1531" b="673"><region><rect l="1128" t="595" r="1241" b="596"/><rect l="1128" t="596" r="1434" b="597"/><rect l="1128" t="597" r="1531" b="671"/><rect l="1239" t="671" r="1531" b="672"/><rect l="1432" t="672" r="1531" b="673"/></region>
+<text>
+<par lineSpacing="800">
+<line baseline="634" l="1134" t="601" r="1459" b="630"><formatting lang="EnglishUnitedStates">ROC No. 196700488Z&#xA;</formatting></line></par>
+<par align="Right" lineSpacing="930">
+<line baseline="672" l="1440" t="634" r="1525" b="667"><formatting lang="EnglishUnitedStates">Date&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="19" t="552" r="1382" b="672"><region><rect l="19" t="552" r="84" b="553"/><rect l="19" t="553" r="277" b="554"/><rect l="19" t="554" r="470" b="555"/><rect l="19" t="555" r="662" b="556"/><rect l="19" t="556" r="855" b="557"/><rect l="19" t="557" r="1048" b="558"/><rect l="19" t="558" r="1241" b="559"/><rect l="19" t="559" r="1382" b="601"/><rect l="19" t="601" r="1382" b="602"/><rect l="19" t="602" r="1118" b="666"/><rect l="83" t="666" r="1118" b="667"/><rect l="275" t="667" r="1118" b="668"/><rect l="468" t="668" r="1118" b="669"/><rect l="661" t="669" r="1118" b="670"/><rect l="854" t="670" r="1118" b="671"/><rect l="1046" t="671" r="1118" b="672"/></region>
+<text>
+<par lineSpacing="1260">
+<line baseline="625" l="25" t="571" r="698" b="618"><formatting lang="EnglishUnitedStates">SLS BOLTS &amp; NUTS (M) SDN&#xA;</formatting></line></par>
+<par lineSpacing="1030">
+<line baseline="667" l="25" t="619" r="777" b="664"><formatting lang="EnglishUnitedStates">11A JALAN 51/215, HIGHWAY CENTRE&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="18" t="664" r="981" b="865"><region><rect l="19" t="664" r="84" b="665"/><rect l="19" t="665" r="277" b="666"/><rect l="19" t="666" r="470" b="667"/><rect l="19" t="667" r="662" b="668"/><rect l="19" t="668" r="855" b="669"/><rect l="19" t="669" r="981" b="692"/><rect l="18" t="692" r="981" b="694"/><rect l="18" t="694" r="980" b="860"/><rect l="83" t="860" r="980" b="861"/><rect l="275" t="861" r="980" b="862"/><rect l="468" t="862" r="980" b="863"/><rect l="661" t="863" r="980" b="864"/><rect l="854" t="864" r="980" b="865"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="716" l="25" t="670" r="717" b="716"><formatting lang="EnglishUnitedStates">46050 PETALING JAYA, SELANGOR&#xA;</formatting></line></par>
+<par lineSpacing="1090">
+<line baseline="766" l="24" t="719" r="358" b="757"><formatting lang="EnglishUnitedStates">WEST MALAYSIA&#xA;</formatting></line></par>
+<par lineSpacing="1090">
+<line baseline="817" l="24" t="770" r="974" b="816"><formatting lang="EnglishUnitedStates">ATTN: FONG YOKE YEN(FINANCE DEPARTMENT)&#xA;</formatting></line></par>
+<par lineSpacing="1090">
+<line baseline="865" l="24" t="820" r="722" b="858"><formatting lang="EnglishUnitedStates">Pel: 03-77883555 Fax ; 03-77883688&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1431" t="678" r="1624" b="830"><region><rect l="1432" t="678" r="1434" b="679"/><rect l="1432" t="679" r="1623" b="680"/><rect l="1432" t="680" r="1624" b="692"/><rect l="1431" t="692" r="1624" b="694"/><rect l="1431" t="694" r="1623" b="829"/><rect l="1432" t="829" r="1623" b="830"/></region>
+<text>
+<par lineSpacing="1200">
+<line baseline="722" l="1438" t="685" r="1558" b="717"><formatting lang="EnglishUnitedStates">Terms&#xA;</formatting></line></par>
+<par lineSpacing="1200">
+<line baseline="769" l="1437" t="735" r="1617" b="771"><formatting lang="EnglishUnitedStates">Currency</formatting></line>
+<line baseline="819" l="1438" t="784" r="1533" b="823"><formatting lang="EnglishUnitedStates">Page&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1679" t="625" r="1898" b="819"><region><rect l="1680" t="625" r="1819" b="626"/><rect l="1680" t="626" r="1898" b="692"/><rect l="1679" t="692" r="1898" b="694"/><rect l="1679" t="694" r="1897" b="818"/><rect l="1818" t="818" r="1897" b="819"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="667" l="1687" t="631" r="1892" b="664"><formatting lang="EnglishUnitedStates">20/02/2019&#xA;</formatting></line></par>
+<par lineSpacing="1090">
+<line baseline="717" l="1686" t="680" r="1855" b="714"><formatting lang="EnglishUnitedStates">30 DAYS&#xA;</formatting></line></par>
+<par lineSpacing="1090">
+<line baseline="766" l="1686" t="731" r="1773" b="763"><formatting lang="EnglishUnitedStates">SGD&#xA;</formatting></line></par>
+<par lineSpacing="1090">
+<line baseline="816" l="1687" t="780" r="1701" b="812"><formatting lang="EnglishUnitedStates">1&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Table" blockName="" l="7" t="915" r="2339" b="2751"><region><rect l="16" t="915" r="84" b="916"/><rect l="16" t="916" r="277" b="917"/><rect l="16" t="917" r="470" b="918"/><rect l="16" t="918" r="662" b="919"/><rect l="16" t="919" r="855" b="920"/><rect l="16" t="920" r="1048" b="921"/><rect l="16" t="921" r="1241" b="922"/><rect l="16" t="922" r="1434" b="923"/><rect l="16" t="923" r="1626" b="924"/><rect l="16" t="924" r="1819" b="925"/><rect l="16" t="925" r="2012" b="926"/><rect l="16" t="926" r="2205" b="927"/><rect l="16" t="927" r="2339" b="1078"/><rect l="15" t="1078" r="2339" b="1079"/><rect l="15" t="1079" r="2338" b="1270"/><rect l="14" t="1270" r="2338" b="1272"/><rect l="14" t="1272" r="2337" b="1463"/><rect l="13" t="1463" r="2337" b="1465"/><rect l="13" t="1465" r="2336" b="1656"/><rect l="12" t="1656" r="2336" b="1657"/><rect l="12" t="1657" r="2335" b="1849"/><rect l="11" t="1849" r="2335" b="1850"/><rect l="11" t="1850" r="2334" b="2041"/><rect l="10" t="2041" r="2334" b="2043"/><rect l="10" t="2043" r="2333" b="2234"/><rect l="9" t="2234" r="2333" b="2236"/><rect l="9" t="2236" r="2332" b="2427"/><rect l="8" t="2427" r="2332" b="2428"/><rect l="8" t="2428" r="2331" b="2620"/><rect l="7" t="2620" r="2331" b="2621"/><rect l="7" t="2621" r="2330" b="2739"/><rect l="83" t="2739" r="2330" b="2740"/><rect l="275" t="2740" r="2330" b="2741"/><rect l="468" t="2741" r="2330" b="2742"/><rect l="661" t="2742" r="2330" b="2743"/><rect l="854" t="2743" r="2330" b="2744"/><rect l="1046" t="2744" r="2330" b="2745"/><rect l="1239" t="2745" r="2330" b="2746"/><rect l="1432" t="2746" r="2330" b="2747"/><rect l="1625" t="2747" r="2330" b="2748"/><rect l="1818" t="2748" r="2330" b="2749"/><rect l="2010" t="2749" r="2330" b="2750"/><rect l="2203" t="2750" r="2330" b="2751"/></region>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="86" height="64">
+<text>
+<par lineSpacing="1090">
+<line baseline="968" l="23" t="923" r="96" b="956"><formatting lang="EnglishUnitedStates">Item&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="221" height="64">
+<text>
+<par startIndent="900" lineSpacing="1090">
+<line baseline="969" l="143" t="924" r="291" b="958"><formatting lang="EnglishUnitedStates">D/O No.&#xA;</formatting></line></par>
+</text></cell>
+<cell colSpan="2" leftBorder="White" topBorder="White" rightBorder="White" width="254" height="64">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="973" l="495" t="929" r="560" b="968"><formatting lang="EnglishUnitedStates">Qty&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="1085" height="64">
+<text>
+<par lineSpacing="1090">
+<line baseline="971" l="590" t="929" r="813" b="967"><formatting lang="EnglishUnitedStates">Description&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="381" height="64">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="968" l="1766" t="933" r="1955" b="966"><formatting lang="EnglishUnitedStates">Unit Price&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="296" height="64">
+<text>
+<par align="Right" rightIndent="1100" lineSpacing="1090">
+<line baseline="967" l="2123" t="932" r="2277" b="970"><formatting lang="EnglishUnitedStates">Amount&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="86" height="68">
+<text>
+<par lineSpacing="1090">
+<line baseline="1042" l="31" t="997" r="45" b="1028"><formatting lang="EnglishUnitedStates">1&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="221" height="68">
+<text>
+<par lineSpacing="1090">
+<line baseline="1042" l="117" t="998" r="277" b="1031"><formatting lang="EnglishUnitedStates">B204141&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="174" height="68">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1044" l="419" t="1001" r="487" b="1034"><formatting lang="EnglishUnitedStates">500&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="80" height="68">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1045" l="512" t="1002" r="567" b="1035"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="68">
+<text>
+<par lineSpacing="1090">
+<line baseline="1044" l="592" t="1001" r="1375" b="1047"><formatting lang="EnglishUnitedStates">SS304 EXTERNAL CIRCLIP A-20 (0.4KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="381" height="68">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1042" l="1797" t="1006" r="1956" b="1039"><formatting lang="EnglishUnitedStates">4.20/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="296" height="68">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1040" l="2178" t="1006" r="2282" b="1041"><formatting lang="EnglishUnitedStates">21.00&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1106" l="29" t="1061" r="50" b="1093"><formatting lang="EnglishUnitedStates">2&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="62">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1107" l="418" t="1064" r="486" b="1098"><formatting lang="EnglishUnitedStates">500&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1108" l="512" t="1066" r="567" b="1098"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1108" l="592" t="1065" r="1237" b="1110"><formatting lang="EnglishUnitedStates">EXTERNAL CIRCLIP A-21 (0.6KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="62">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1106" l="1798" t="1069" r="1957" b="1103"><formatting lang="EnglishUnitedStates">1.30/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="62">
+<text>
+<par align="Justified" startIndent="3700" lineSpacing="1090">
+<line baseline="1104" l="2200" t="1070" r="2282" b="1103"><formatting lang="EnglishUnitedStates">6.50&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1166" l="28" t="1122" r="50" b="1153"><formatting lang="EnglishUnitedStates">3&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="62">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1167" l="417" t="1125" r="486" b="1158"><formatting lang="EnglishUnitedStates">500&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1168" l="511" t="1126" r="566" b="1158"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1168" l="590" t="1125" r="1373" b="1171"><formatting lang="EnglishUnitedStates">SS304 EXTERNAL CIRCLIP A-22 (0.6KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="62">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1167" l="1797" t="1130" r="1956" b="1164"><formatting lang="EnglishUnitedStates">8.50/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="62">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1165" l="2178" t="1131" r="2281" b="1164"><formatting lang="EnglishUnitedStates">42.50&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1228" l="28" t="1185" r="49" b="1215"><formatting lang="EnglishUnitedStates">4&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="62">
+<text>
+<par startIndent="1300" lineSpacing="1090">
+<line baseline="1231" l="382" t="1187" r="485" b="1228"><formatting lang="EnglishUnitedStates">3,000&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1231" l="511" t="1189" r="565" b="1221"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1231" l="589" t="1189" r="1607" b="1235"><formatting lang="EnglishUnitedStates">ZINC PL CARRIAGE BOLT/ NUT M8 X 70 P/T (100KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="62">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1231" l="1797" t="1194" r="1956" b="1228"><formatting lang="EnglishUnitedStates">6.80/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="62">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="1229" l="2154" t="1194" r="2281" b="1229"><formatting lang="EnglishUnitedStates">204.00&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1291" l="27" t="1246" r="48" b="1278"><formatting lang="EnglishUnitedStates">5&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="62">
+<text>
+<par startIndent="1300" lineSpacing="1090">
+<line baseline="1292" l="382" t="1249" r="485" b="1289"><formatting lang="EnglishUnitedStates">1,200&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1292" l="509" t="1250" r="564" b="1282"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1292" l="589" t="1249" r="1394" b="1296"><formatting lang="EnglishUnitedStates">SS316 DIN933 HEX BOLT M8 X 70 (35KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="62">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="1291" l="1774" t="1255" r="1956" b="1289"><formatting lang="EnglishUnitedStates">16.60/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="62">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="1290" l="2155" t="1255" r="2281" b="1290"><formatting lang="EnglishUnitedStates">199.20&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1354" l="26" t="1310" r="48" b="1341"><formatting lang="EnglishUnitedStates">6&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="62">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1356" l="463" t="1314" r="484" b="1346"><formatting lang="EnglishUnitedStates">2&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1356" l="510" t="1314" r="565" b="1346"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1356" l="591" t="1313" r="1394" b="1359"><formatting lang="EnglishUnitedStates">10.9 DIN931 HEX BOLT M48 X 500 (15KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="62">
+<text>
+<par align="Justified" startIndent="1200" lineSpacing="1090">
+<line baseline="1356" l="1715" t="1318" r="1956" b="1359"><formatting lang="EnglishUnitedStates">2,888.25/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="62">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1354" l="2178" t="1319" r="2280" b="1354"><formatting lang="EnglishUnitedStates">57.77&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="64">
+<text>
+<par lineSpacing="1090">
+<line baseline="1417" l="26" t="1372" r="48" b="1404"><formatting lang="EnglishUnitedStates">7&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="64">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="64">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1419" l="417" t="1375" r="484" b="1411"><formatting lang="EnglishUnitedStates">. 60&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="64">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1418" l="510" t="1376" r="564" b="1408"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="64">
+<text>
+<par lineSpacing="1090">
+<line baseline="1418" l="589" t="1375" r="1317" b="1421"><formatting lang="EnglishUnitedStates">GALV LONG NUT 1&quot;X 60MM (11.5KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="64">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="1417" l="1773" t="1380" r="1955" b="1414"><formatting lang="EnglishUnitedStates">87.30/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="64">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1416" l="2177" t="1382" r="2281" b="1416"><formatting lang="EnglishUnitedStates">52.38&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="1481" l="25" t="1436" r="46" b="1468"><formatting lang="EnglishUnitedStates">8&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="63">
+<text>
+<par startIndent="700" lineSpacing="1090">
+<line baseline="1482" l="357" t="1438" r="483" b="1479"><formatting lang="EnglishUnitedStates">18,000&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1482" l="508" t="1440" r="564" b="1472"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="1483" l="588" t="1440" r="1397" b="1485"><formatting lang="EnglishUnitedStates">CL8-DIN934 HDG HEX NUT M6-1.0 (37KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1482" l="1797" t="1445" r="1956" b="1479"><formatting lang="EnglishUnitedStates">1.27/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="63">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="1481" l="2154" t="1446" r="2281" b="1480"><formatting lang="EnglishUnitedStates">228.60&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="1543" l="25" t="1498" r="46" b="1530"><formatting lang="EnglishUnitedStates">9&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="63">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1545" l="414" t="1500" r="483" b="1535"><formatting lang="EnglishUnitedStates">560&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1544" l="508" t="1502" r="562" b="1534"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="1544" l="587" t="1502" r="1348" b="1547"><formatting lang="EnglishUnitedStates">GALV LONG NUT M20 X 50MM (103KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="63">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="1544" l="1772" t="1508" r="1955" b="1542"><formatting lang="EnglishUnitedStates">62.00/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="63">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="1543" l="2153" t="1509" r="2280" b="1542"><formatting lang="EnglishUnitedStates">347.20&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1606" l="26" t="1562" r="68" b="1593"><formatting lang="EnglishUnitedStates">10&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="63">
+<text>
+<par startIndent="700" lineSpacing="1090">
+<line baseline="1608" l="356" t="1565" r="482" b="1605"><formatting lang="EnglishUnitedStates">80,000&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1608" l="508" t="1566" r="562" b="1598"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="1609" l="586" t="1566" r="1235" b="1610"><formatting lang="EnglishUnitedStates">SS304 FLAT WASHER M3 (10KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1608" l="1796" t="1571" r="1955" b="1605"><formatting lang="EnglishUnitedStates">0.16/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="63">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="1607" l="2155" t="1572" r="2280" b="1607"><formatting lang="EnglishUnitedStates">128.00&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1668" l="24" t="1623" r="62" b="1655"><formatting lang="EnglishUnitedStates">11&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="62">
+<text>
+<par startIndent="700" lineSpacing="1090">
+<line baseline="1669" l="354" t="1626" r="481" b="1667"><formatting lang="EnglishUnitedStates">76,000&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1669" l="507" t="1627" r="562" b="1659"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1670" l="586" t="1627" r="1235" b="1672"><formatting lang="EnglishUnitedStates">SS304 FLAT WASHER M4 (18KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="62">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1669" l="1794" t="1633" r="1954" b="1667"><formatting lang="EnglishUnitedStates">0.19/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="62">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="1669" l="2154" t="1634" r="2280" b="1669"><formatting lang="EnglishUnitedStates">144.40&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="64">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1732" l="25" t="1687" r="67" b="1719"><formatting lang="EnglishUnitedStates">12&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="64">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="64">
+<text>
+<par startIndent="1300" lineSpacing="1090">
+<line baseline="1733" l="378" t="1690" r="481" b="1730"><formatting lang="EnglishUnitedStates">5,400&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="64">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1733" l="507" t="1691" r="562" b="1723"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="64">
+<text>
+<par lineSpacing="1090">
+<line baseline="1733" l="586" t="1691" r="1497" b="1737"><formatting lang="EnglishUnitedStates">SS316 FLAT WASHER Ml2 (OD38MM) (111KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="64">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="1733" l="1774" t="1697" r="1955" b="1730"><formatting lang="EnglishUnitedStates">16.00/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="64">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="1732" l="2153" t="1698" r="2280" b="1732"><formatting lang="EnglishUnitedStates">864.00&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="187">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1793" l="24" t="1748" r="67" b="1780"><formatting lang="EnglishUnitedStates">13&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="187">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="187">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="1794" l="436" t="1751" r="481" b="1785"><formatting lang="EnglishUnitedStates">50&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="187">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1795" l="507" t="1752" r="561" b="1785"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="187">
+<text>
+<par lineSpacing="1536">
+<line baseline="1795" l="588" t="1752" r="1216" b="1796"><formatting lang="EnglishUnitedStates">INTERNAL CIRCLIP B-76 (0.5KG)</formatting></line>
+<line baseline="1859" l="586" t="1816" r="913" b="1851"><formatting lang="EnglishUnitedStates">PO No : PO46821&#xA;</formatting></line></par>
+<par lineSpacing="1536">
+<line baseline="1920" l="584" t="1877" r="1182" b="1914"><formatting lang="EnglishUnitedStates">TOTAL : 25CTNS+1BAG+1 BOX&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="187">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="1794" l="1772" t="1758" r="1955" b="1792"><formatting lang="EnglishUnitedStates">28.00/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="187">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1794" l="2178" t="1759" r="2280" b="1793"><formatting lang="EnglishUnitedStates">14.00&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1982" l="22" t="1938" r="65" b="1970"><formatting lang="EnglishUnitedStates">14&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1983" l="108" t="1937" r="274" b="1971"><formatting lang="EnglishUnitedStates">B204143&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="62">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1983" l="411" t="1941" r="479" b="1974"><formatting lang="EnglishUnitedStates">200&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1983" l="505" t="1942" r="559" b="1973"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1983" l="586" t="1941" r="1232" b="1985"><formatting lang="EnglishUnitedStates">EXTERNAL CIRCLIP A-34 (0.8KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="62">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1982" l="1795" t="1947" r="1955" b="1981"><formatting lang="EnglishUnitedStates">5.80/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="62">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="1983" l="2178" t="1949" r="2279" b="1982"><formatting lang="EnglishUnitedStates">11.60&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2045" l="22" t="1999" r="64" b="2032"><formatting lang="EnglishUnitedStates">15&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="63">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="2045" l="411" t="2002" r="479" b="2035"><formatting lang="EnglishUnitedStates">200&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2045" l="505" t="2003" r="559" b="2035"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="2045" l="584" t="2003" r="1179" b="2047"><formatting lang="EnglishUnitedStates">INTERNAL CIRCLIP B-60 (2KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="63">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="2046" l="1773" t="2009" r="1954" b="2043"><formatting lang="EnglishUnitedStates">15.75/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2045" l="2175" t="2010" r="2279" b="2045"><formatting lang="EnglishUnitedStates">31.50&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2107" l="21" t="2062" r="64" b="2094"><formatting lang="EnglishUnitedStates">16&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="63">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="2108" l="410" t="2065" r="479" b="2098"><formatting lang="EnglishUnitedStates">200&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2108" l="504" t="2066" r="558" b="2099"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="2108" l="585" t="2066" r="1214" b="2110"><formatting lang="EnglishUnitedStates">INTERNAL CIRCLIP B-70 (3.5KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="63">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="2109" l="1771" t="2072" r="1954" b="2106"><formatting lang="EnglishUnitedStates">24.70/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2108" l="2175" t="2074" r="2279" b="2107"><formatting lang="EnglishUnitedStates">49.40&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2169" l="20" t="2124" r="63" b="2157"><formatting lang="EnglishUnitedStates">17&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="63">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="2170" l="409" t="2128" r="478" b="2161"><formatting lang="EnglishUnitedStates">200&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2171" l="504" t="2129" r="558" b="2161"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="2171" l="585" t="2128" r="1178" b="2172"><formatting lang="EnglishUnitedStates">INTERNAL CIRCLIP B-75 (4KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="63">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="2170" l="1771" t="2134" r="1954" b="2169"><formatting lang="EnglishUnitedStates">25.80/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2170" l="2175" t="2136" r="2278" b="2170"><formatting lang="EnglishUnitedStates">51.60&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2234" l="20" t="2188" r="62" b="2221"><formatting lang="EnglishUnitedStates">18&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="63">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="2235" l="409" t="2192" r="477" b="2225"><formatting lang="EnglishUnitedStates">500&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2236" l="504" t="2193" r="558" b="2226"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="2235" l="583" t="2192" r="1445" b="2239"><formatting lang="EnglishUnitedStates">SS304 DIN916 SET SCREW M4 X16 (0.5KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2235" l="1793" t="2198" r="1954" b="2233"><formatting lang="EnglishUnitedStates">2.07/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2235" l="2176" t="2200" r="2278" b="2234"><formatting lang="EnglishUnitedStates">10.35&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2295" l="19" t="2250" r="62" b="2282"><formatting lang="EnglishUnitedStates">19&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="63">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="2296" l="409" t="2253" r="477" b="2287"><formatting lang="EnglishUnitedStates">500&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2297" l="503" t="2255" r="558" b="2287"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="2296" l="582" t="2254" r="1396" b="2301"><formatting lang="EnglishUnitedStates">SS304 JIS PAN (+) SCREW M6 X 12 (2KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2297" l="1794" t="2260" r="1953" b="2294"><formatting lang="EnglishUnitedStates">3.20/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2297" l="2176" t="2262" r="2278" b="2296"><formatting lang="EnglishUnitedStates">16.00&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="2358" l="16" t="2311" r="85" b="2346"><formatting lang="EnglishUnitedStates">20 &apos;&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="62">
+<text>
+<par startIndent="1300" lineSpacing="1090">
+<line baseline="2360" l="374" t="2317" r="477" b="2357"><formatting lang="EnglishUnitedStates">1,400&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2361" l="503" t="2318" r="557" b="2351"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="2360" l="582" t="2317" r="1360" b="2363"><formatting lang="EnglishUnitedStates">SS304 CSK (+) SCREW M6 X16 (9.5KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="62">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2359" l="1793" t="2323" r="1953" b="2358"><formatting lang="EnglishUnitedStates">2.90/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="62">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2360" l="2174" t="2326" r="2278" b="2359"><formatting lang="EnglishUnitedStates">40.60&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="2420" l="17" t="2374" r="54" b="2407"><formatting lang="EnglishUnitedStates">21&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="63">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="2420" l="408" t="2378" r="476" b="2411"><formatting lang="EnglishUnitedStates">750&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2421" l="502" t="2379" r="557" b="2411"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="2421" l="582" t="2378" r="1535" b="2426"><formatting lang="EnglishUnitedStates">SS316 DIN7985 PAN (+) SCREW M6 X 25 (4.5KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2421" l="1793" t="2385" r="1952" b="2419"><formatting lang="EnglishUnitedStates">8.55/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2421" l="2174" t="2387" r="2278" b="2420"><formatting lang="EnglishUnitedStates">64.13&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="2485" l="15" t="2439" r="60" b="2472"><formatting lang="EnglishUnitedStates">22&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="62">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="2485" l="432" t="2442" r="475" b="2475"><formatting lang="EnglishUnitedStates">10&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2486" l="501" t="2443" r="556" b="2476"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="2486" l="581" t="2443" r="1343" b="2488"><formatting lang="EnglishUnitedStates">8.8 DIN931 HEX BOLT Ml4 X 250 (3KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="62">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="2486" l="1769" t="2449" r="1953" b="2483"><formatting lang="EnglishUnitedStates">81.50/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="62">
+<text>
+<par align="Justified" startIndent="3700" lineSpacing="1090">
+<line baseline="2485" l="2197" t="2451" r="2277" b="2485"><formatting lang="EnglishUnitedStates">8.15&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="189">
+<text>
+<par lineSpacing="1090">
+<line baseline="2546" l="15" t="2501" r="60" b="2534"><formatting lang="EnglishUnitedStates">23&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="189">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="189">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="2547" l="430" t="2503" r="475" b="2537"><formatting lang="EnglishUnitedStates">70&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="189">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2547" l="501" t="2505" r="556" b="2537"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="189">
+<text>
+<par lineSpacing="1560">
+<line baseline="2546" l="579" t="2502" r="1361" b="2550"><formatting lang="EnglishUnitedStates">YZP DIN580 EYE BOLT Ml 6 X 27 (20KG)</formatting></line>
+<line baseline="2611" l="582" t="2569" r="849" b="2603"><formatting lang="EnglishUnitedStates">PO No: 46761&#xA;</formatting></line></par>
+<par lineSpacing="1560">
+<line baseline="2673" l="579" t="2630" r="1071" b="2667"><formatting lang="EnglishUnitedStates">TOTAL: 2CTNS+3BOXES&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="189">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="2546" l="1769" t="2510" r="1952" b="2545"><formatting lang="EnglishUnitedStates">99.25/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="189">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2547" l="2174" t="2513" r="2277" b="2547"><formatting lang="EnglishUnitedStates">69.48&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="86" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="2735" l="13" t="2691" r="58" b="2724"><formatting lang="EnglishUnitedStates">24&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="221" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="2736" l="102" t="2692" r="268" b="2725"><formatting lang="EnglishUnitedStates">B204496&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="174" height="63">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="2736" l="405" t="2693" r="474" b="2727"><formatting lang="EnglishUnitedStates">200&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="80" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2736" l="500" t="2694" r="555" b="2726"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1085" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="2737" l="581" t="2694" r="1210" b="2738"><formatting lang="EnglishUnitedStates">INTERNAL CIRCLIP B-50 (0.7KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="381" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2736" l="1792" t="2700" r="1951" b="2735"><formatting lang="EnglishUnitedStates">8.77/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="296" height="63">
+<text>
+<par align="Justified" startIndent="3100" lineSpacing="1090">
+<line baseline="2737" l="2175" t="2702" r="2277" b="2737"><formatting lang="EnglishUnitedStates">17.54&#xA;</formatting></line></par>
+</text></cell></row>
+</block>
+<block blockType="Text" blockName="" l="5" t="2859" r="685" b="2959"><region><rect l="5" t="2859" r="84" b="2860"/><rect l="5" t="2860" r="277" b="2861"/><rect l="5" t="2861" r="470" b="2862"/><rect l="5" t="2862" r="662" b="2863"/><rect l="5" t="2863" r="685" b="2955"/><rect l="83" t="2955" r="685" b="2956"/><rect l="275" t="2956" r="685" b="2957"/><rect l="468" t="2957" r="685" b="2958"/><rect l="661" t="2958" r="684" b="2959"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="2911" l="12" t="2865" r="679" b="2903"><formatting lang="EnglishUnitedStates">COMPUTER PRINTED DOCUMENT&#xA;</formatting></line></par>
+<par lineSpacing="1090">
+<line baseline="2960" l="11" t="2914" r="542" b="2951"><formatting lang="EnglishUnitedStates">40 SIGNATURE REQUIRED&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="820" t="2805" r="964" b="2928"><region><rect l="821" t="2805" r="855" b="2806"/><rect l="821" t="2806" r="964" b="2812"/><rect l="820" t="2812" r="964" b="2814"/><rect l="820" t="2814" r="963" b="2927"/><rect l="854" t="2927" r="963" b="2928"/></region>
+<text>
+<par lineSpacing="1380"></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1648" t="2794" r="1864" b="2841"><region><rect l="1649" t="2794" r="1819" b="2795"/><rect l="1649" t="2795" r="1864" b="2812"/><rect l="1648" t="2812" r="1864" b="2814"/><rect l="1648" t="2814" r="1863" b="2839"/><rect l="1649" t="2839" r="1863" b="2840"/><rect l="1818" t="2840" r="1863" b="2841"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="2838" l="1654" t="2800" r="1858" b="2835"><formatting lang="EnglishUnitedStates">Balance c/f&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2107" t="2797" r="2283" b="2850"><region><rect l="2108" t="2797" r="2205" b="2798"/><rect l="2108" t="2798" r="2283" b="2812"/><rect l="2107" t="2812" r="2283" b="2814"/><rect l="2107" t="2814" r="2282" b="2849"/><rect l="2203" t="2849" r="2282" b="2850"/></region>
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="2837" l="2114" t="2803" r="2276" b="2844"><formatting lang="EnglishUnitedStates">2,679.90&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1672" t="2968" r="2001" b="3006"><region><rect l="1672" t="2968" r="1819" b="2969"/><rect l="1672" t="2969" r="2000" b="2970"/><rect l="1672" t="2970" r="2001" b="3005"/><rect l="1818" t="3005" r="2001" b="3006"/></region>
+<text>
+<par lineSpacing="800">
+<line baseline="3001" l="1678" t="2974" r="1995" b="2999"><formatting lang="EnglishUnitedStates">Print Data 20/02/2019&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2078" t="2969" r="2228" b="3006"><region><rect l="2078" t="2969" r="2205" b="2970"/><rect l="2078" t="2970" r="2228" b="3005"/><rect l="2203" t="3005" r="2227" b="3006"/></region>
+<text>
+<par align="Right" lineSpacing="750">
+<line baseline="3000" l="2084" t="2975" r="2222" b="3000"><formatting lang="EnglishUnitedStates">1:50:58PM&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1657" t="3185" r="1809" b="3223"><region><rect l="1658" t="3185" r="1808" b="3186"/><rect l="1658" t="3186" r="1809" b="3198"/><rect l="1657" t="3198" r="1809" b="3199"/><rect l="1657" t="3199" r="1808" b="3222"/><rect l="1658" t="3222" r="1808" b="3223"/></region>
+<text>
+<par lineSpacing="800">
+<line baseline="3221" l="1664" t="3191" r="1803" b="3217"><formatting lang="EnglishUnitedStates">E. &amp;O. E.&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="" l="11" t="2982" r="650" b="2992"><region><rect l="11" t="2982" r="277" b="2983"/><rect l="11" t="2983" r="444" b="2984"/><rect l="11" t="2984" r="470" b="2985"/><rect l="11" t="2985" r="649" b="2986"/><rect l="11" t="2986" r="650" b="2989"/><rect l="83" t="2989" r="650" b="2990"/><rect l="275" t="2990" r="650" b="2991"/><rect l="468" t="2991" r="650" b="2992"/></region>
+<separator type="Black" thickness="7"><start x="26" y="2998"/><end x="665" y="2998"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="27" t="965" r="2352" b="987"><region><rect l="27" t="965" r="84" b="966"/><rect l="27" t="966" r="277" b="967"/><rect l="27" t="967" r="470" b="968"/><rect l="27" t="968" r="662" b="969"/><rect l="27" t="969" r="855" b="970"/><rect l="27" t="970" r="1048" b="971"/><rect l="27" t="971" r="1241" b="972"/><rect l="27" t="972" r="1434" b="973"/><rect l="27" t="973" r="1626" b="974"/><rect l="27" t="974" r="1819" b="975"/><rect l="83" t="975" r="2012" b="976"/><rect l="275" t="976" r="2205" b="977"/><rect l="468" t="977" r="2352" b="978"/><rect l="661" t="978" r="2352" b="979"/><rect l="854" t="979" r="2352" b="980"/><rect l="1046" t="980" r="2352" b="981"/><rect l="1239" t="981" r="2352" b="982"/><rect l="1432" t="982" r="2352" b="983"/><rect l="1625" t="983" r="2352" b="984"/><rect l="1818" t="984" r="2352" b="985"/><rect l="2010" t="985" r="2352" b="986"/><rect l="2203" t="986" r="2352" b="987"/></region>
+<separator type="Dotted" thickness="5"><start x="32" y="983"/><end x="2357" y="983"/>
+</separator>
+</block>
+</page>
+<page width="2480" height="3506" resolution="300" originalCoords="1">
+<block blockType="Picture" blockName="" l="105" t="154" r="414" b="477"><region><rect l="105" t="154" r="414" b="477"/></region>
+</block>
+<block blockType="Text" blockName="" l="482" t="162" r="1690" b="560"><region><rect l="482" t="162" r="1690" b="560"/></region>
+<text>
+<par align="Center" lineSpacing="1840">
+<line baseline="320" l="489" t="267" r="1685" b="335"><formatting lang="EnglishUnitedStates">CENTRAL ENGINEERING (PTE) LTD&#xA;</formatting></line></par>
+<par align="Center" lineSpacing="912">
+<line baseline="357" l="765" t="332" r="1409" b="365"><formatting lang="EnglishUnitedStates">113-115, Tyrwhitt Road, Singapore 207544&#xA;</formatting></line></par>
+<par align="Center" lineSpacing="912">
+<line baseline="395" l="708" t="369" r="1463" b="402"><formatting lang="EnglishUnitedStates">Tel: 6294 2111 (8 lines) Fax: 6296 5231, 6295 5833</formatting></line>
+<line baseline="433" l="783" t="408" r="1389" b="434"><formatting lang="EnglishUnitedStates">A/C Tel: 6296 6937/8 A/C Fax: 6297 2584&#xA;</formatting></line></par>
+<par align="Center" lineSpacing="912">
+<line baseline="471" l="594" t="445" r="1578" b="478"><formatting lang="EnglishUnitedStates">8 Benoi Place, Singapore 629928. Tel: 6863 1655 (3 lines) Fax: 6862 0406</formatting></line>
+<line baseline="509" l="783" t="483" r="1390" b="516"><formatting lang="EnglishUnitedStates">E-mail: sales@ centralengineering.com.sg</formatting></line>
+<line baseline="547" l="809" t="521" r="1362" b="554"><formatting lang="EnglishUnitedStates">accounts@centralengineering.com.sg&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1765" t="273" r="2046" b="399"><region><rect l="1765" t="273" r="2046" b="399"/></region>
+<text>
+<par lineSpacing="1260">
+<line baseline="318" l="1771" t="279" r="2040" b="319"><formatting lang="EnglishUnitedStates">Tax Invoice&#xA;</formatting></line></par>
+<par lineSpacing="1260">
+<line baseline="392" l="1772" t="353" r="1931" b="393"><formatting lang="EnglishUnitedStates">146151&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="18" t="567" r="806" b="667"><region><rect l="18" t="567" r="806" b="667"/></region>
+<text>
+<par lineSpacing="984">
+<line baseline="613" l="25" t="574" r="804" b="616"><formatting lang="EnglishUnitedStates">&gt;LS BOLTS &amp; NUTS (M) SDN EW&#xA;</formatting></line></par>
+<par lineSpacing="984">
+<line baseline="654" l="31" t="621" r="760" b="661"><formatting lang="EnglishUnitedStates">1A JALAN 51/215, HIGHWAY CENTRE&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="804" t="554" r="1516" b="664"><region><rect l="804" t="554" r="1516" b="664"/></region>
+<text>
+<par lineSpacing="800">
+<line baseline="585" l="810" t="560" r="1360" b="592"><formatting lang="EnglishUnitedStates">http://www.centralengineering.com.sg&#xA;</formatting></line></par>
+<par lineSpacing="800">
+<line baseline="623" l="806" t="598" r="1444" b="629"><formatting lang="EnglishUnitedStates">Reg. M2-0008569-8 ROC No. 196700488Z&#xA;</formatting></line></par>
+<par align="Right" lineSpacing="820">
+<line baseline="657" l="1424" t="625" r="1510" b="658"><formatting lang="EnglishUnitedStates">Date&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1667" t="613" r="1885" b="659"><region><rect l="1667" t="613" r="1885" b="659"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="652" l="1673" t="619" r="1879" b="653"><formatting lang="EnglishUnitedStates">20/02/2019&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="18" t="666" r="707" b="717"><region><rect l="18" t="666" r="707" b="717"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="705" l="24" t="672" r="701" b="711"><formatting lang="EnglishUnitedStates">■6050 PETALING JAYA, SELANGOR&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1416" t="664" r="1847" b="713"><region><rect l="1416" t="664" r="1847" b="713"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="705" l="1422" t="669" r="1841" b="707"><formatting lang="EnglishUnitedStates">Terms 30 DAYS&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="17" t="716" r="965" b="863"><region><rect l="17" t="716" r="965" b="863"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="756" l="23" t="722" r="343" b="756"><formatting lang="EnglishUnitedStates">VEST MALAYSIA&#xA;</formatting></line></par>
+<par lineSpacing="1090">
+<line baseline="805" l="23" t="772" r="959" b="813"><formatting lang="EnglishUnitedStates">CTTN:FONG YOKE YEN(FINANCE DEPARTMENT)&#xA;</formatting></line></par>
+<par lineSpacing="1090">
+<line baseline="856" l="29" t="823" r="709" b="857"><formatting lang="EnglishUnitedStates">el: 03-77883555 Fax: 03-77883688&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1417" t="714" r="1766" b="821"><region><rect l="1417" t="714" r="1766" b="821"/></region>
+<text>
+<par lineSpacing="1224">
+<line baseline="755" l="1423" t="720" r="1760" b="765"><formatting lang="EnglishUnitedStates">Currency SGD</formatting></line>
+<line baseline="806" l="1424" t="772" r="1694" b="815"><formatting lang="EnglishUnitedStates">Page 2&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Table" blockName="" l="9" t="917" r="2290" b="2374"><region><rect l="9" t="917" r="2290" b="2374"/></region>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="85" height="56">
+<text>
+<par lineSpacing="1090">
+<line baseline="959" l="22" t="927" r="85" b="959"><formatting lang="EnglishUnitedStates">tem&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="218" height="56">
+<text>
+<par align="Center" lineSpacing="1090">
+<line baseline="959" l="132" t="927" r="277" b="959"><formatting lang="EnglishUnitedStates">D/O No.&#xA;</formatting></line></par>
+</text></cell>
+<cell colSpan="2" leftBorder="White" topBorder="White" rightBorder="White" width="253" height="56">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="960" l="483" t="929" r="546" b="967"><formatting lang="EnglishUnitedStates">Qty&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="1081" height="56">
+<text>
+<par lineSpacing="1090">
+<line baseline="958" l="578" t="927" r="799" b="964"><formatting lang="EnglishUnitedStates">Description&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="383" height="56">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="957" l="1753" t="924" r="1944" b="957"><formatting lang="EnglishUnitedStates">Unit Price&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="261" height="56">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="955" l="2111" t="923" r="2264" b="956"><formatting lang="EnglishUnitedStates">Amount&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="85" height="94">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="218" height="94">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="172" height="94">
+<text>
+<par leftIndent="700" lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="81" height="94">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="94">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="383" height="94">
+<text>
+<par lineSpacing="1090">
+<line baseline="1051" l="1649" t="1019" r="1855" b="1052"><formatting lang="EnglishUnitedStates">Balance b/f&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="261" height="94">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1050" l="2108" t="1018" r="2270" b="1057"><formatting lang="EnglishUnitedStates">2,679.90&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1115" l="21" t="1083" r="61" b="1115"><formatting lang="EnglishUnitedStates">25&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="62">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1115" l="405" t="1083" r="473" b="1115"><formatting lang="EnglishUnitedStates">600&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1116" l="499" t="1084" r="554" b="1116"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1115" l="580" t="1081" r="1640" b="1123"><formatting lang="EnglishUnitedStates">10.9 DIN7991 CSK CAP SCREW M20 X 55 F/T (86.1 KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="62">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="1113" l="1761" t="1081" r="1945" b="1113"><formatting lang="EnglishUnitedStates">56.80/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="62">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1112" l="2143" t="1080" r="2269" b="1112"><formatting lang="EnglishUnitedStates">340.80&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1176" l="21" t="1145" r="61" b="1177"><formatting lang="EnglishUnitedStates">26&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="63">
+<text>
+<par align="Justified" startIndent="1200" lineSpacing="1090">
+<line baseline="1177" l="372" t="1145" r="473" b="1184"><formatting lang="EnglishUnitedStates">1,275&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1177" l="499" t="1145" r="554" b="1177"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="1176" l="578" t="1143" r="1428" b="1184"><formatting lang="EnglishUnitedStates">SS304 DIN933 HEX BOLT M20 X 65 (267KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="63">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="1174" l="1762" t="1142" r="1945" b="1175"><formatting lang="EnglishUnitedStates">93.00/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="63">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1172" l="2110" t="1141" r="2269" b="1180"><formatting lang="EnglishUnitedStates">1,185.75&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1241" l="20" t="1209" r="61" b="1241"><formatting lang="EnglishUnitedStates">27&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="62">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="1241" l="430" t="1209" r="473" b="1241"><formatting lang="EnglishUnitedStates">10&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1241" l="499" t="1209" r="553" b="1241"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1239" l="580" t="1206" r="1545" b="1247"><formatting lang="EnglishUnitedStates">12.9 DIN912 CAP SCREW M24 X 300 P/T (11.9KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="62">
+<text>
+<par align="Center" lineSpacing="1090">
+<line baseline="1237" l="1738" t="1204" r="1945" b="1238"><formatting lang="EnglishUnitedStates">545.49/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="62">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1235" l="2167" t="1203" r="2270" b="1236"><formatting lang="EnglishUnitedStates">54.55&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1302" l="20" t="1270" r="61" b="1302"><formatting lang="EnglishUnitedStates">28&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="63">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1302" l="379" t="1270" r="473" b="1302"><formatting lang="EnglishUnitedStates">• 10&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1303" l="499" t="1270" r="554" b="1303"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="1301" l="578" t="1268" r="1333" b="1310"><formatting lang="EnglishUnitedStates">GALV U-BOLT/ 2 NUTS 3/4 X 14&quot;(20KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="63">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1299" l="1738" t="1267" r="1946" b="1300"><formatting lang="EnglishUnitedStates">390.00/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="63">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1297" l="2167" t="1265" r="2270" b="1298"><formatting lang="EnglishUnitedStates">39.00&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1366" l="20" t="1334" r="61" b="1366"><formatting lang="EnglishUnitedStates">29&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="63">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="1366" l="427" t="1334" r="473" b="1366"><formatting lang="EnglishUnitedStates">40&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1367" l="499" t="1334" r="553" b="1367"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="1365" l="578" t="1332" r="1209" b="1373"><formatting lang="EnglishUnitedStates">SS316 NORD LOCK M27 (0.5KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="63">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1362" l="1738" t="1330" r="1946" b="1363"><formatting lang="EnglishUnitedStates">450.00/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="63">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1361" l="2146" t="1329" r="2270" b="1362"><formatting lang="EnglishUnitedStates">180.00&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="188">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1428" l="19" t="1395" r="61" b="1428"><formatting lang="EnglishUnitedStates">30&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="188">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="188">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="1427" l="428" t="1395" r="473" b="1428"><formatting lang="EnglishUnitedStates">25&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="188">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1427" l="499" t="1396" r="554" b="1427"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="188">
+<text>
+<par lineSpacing="1560">
+<line baseline="1427" l="578" t="1394" r="1209" b="1436"><formatting lang="EnglishUnitedStates">SS316 NORD LOCK M36 (0.6KG)</formatting></line>
+<line baseline="1491" l="579" t="1459" r="906" b="1492"><formatting lang="EnglishUnitedStates">PO No: PO46931&#xA;</formatting></line></par>
+<par lineSpacing="1560">
+<line baseline="1552" l="577" t="1520" r="1283" b="1554"><formatting lang="EnglishUnitedStates">TOTAL ::19CTNS+2BUNDLES+1BOX&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="188">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1424" l="1739" t="1392" r="1946" b="1425"><formatting lang="EnglishUnitedStates">620.00/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="188">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1423" l="2146" t="1391" r="2270" b="1424"><formatting lang="EnglishUnitedStates">155.00&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1617" l="18" t="1585" r="54" b="1617"><formatting lang="EnglishUnitedStates">31&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1618" l="104" t="1585" r="269" b="1618"><formatting lang="EnglishUnitedStates">B204497&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="62">
+<text>
+<par align="Justified" startIndent="1200" lineSpacing="1090">
+<line baseline="1618" l="371" t="1585" r="473" b="1625"><formatting lang="EnglishUnitedStates">1,320&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1617" l="499" t="1585" r="554" b="1618"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1616" l="578" t="1583" r="1396" b="1624"><formatting lang="EnglishUnitedStates">SS304 HEX BOLT 3/8 X 3&quot; UNC F/T (54KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="62">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="1613" l="1765" t="1581" r="1947" b="1614"><formatting lang="EnglishUnitedStates">17.00/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="62">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1612" l="2145" t="1580" r="2272" b="1612"><formatting lang="EnglishUnitedStates">224.40&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1678" l="18" t="1646" r="60" b="1678"><formatting lang="EnglishUnitedStates">32&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="62">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1678" l="404" t="1646" r="473" b="1678"><formatting lang="EnglishUnitedStates">425&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1678" l="499" t="1646" r="554" b="1678"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1676" l="578" t="1643" r="1405" b="1685"><formatting lang="EnglishUnitedStates">SS316 DIN933 HEX BOLT M10 X 65 (20KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="62">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="1674" l="1763" t="1642" r="1947" b="1675"><formatting lang="EnglishUnitedStates">34.68/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="62">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1673" l="2147" t="1641" r="2271" b="1674"><formatting lang="EnglishUnitedStates">147.39&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1742" l="18" t="1710" r="60" b="1742"><formatting lang="EnglishUnitedStates">33&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="63">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1742" l="406" t="1710" r="473" b="1742"><formatting lang="EnglishUnitedStates">130&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1742" l="499" t="1710" r="554" b="1742"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="1740" l="580" t="1707" r="1459" b="1749"><formatting lang="EnglishUnitedStates">10.9 DIN960 PI .5 HEX BOLT Ml 6 X 75 (18KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="63">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="1738" l="1763" t="1706" r="1948" b="1739"><formatting lang="EnglishUnitedStates">34.80/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="63">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1738" l="2169" t="1705" r="2272" b="1738"><formatting lang="EnglishUnitedStates">45.24&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1803" l="17" t="1771" r="60" b="1803"><formatting lang="EnglishUnitedStates">34&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="62">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1803" l="406" t="1771" r="473" b="1803"><formatting lang="EnglishUnitedStates">100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1803" l="499" t="1771" r="554" b="1803"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1802" l="578" t="1769" r="1406" b="1810"><formatting lang="EnglishUnitedStates">SS316 DIN933 HEX BOLT M20 X 50 (18KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="62">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="1800" l="1742" t="1768" r="1947" b="1801"><formatting lang="EnglishUnitedStates">102.00/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="62">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1799" l="2147" t="1767" r="2272" b="1800"><formatting lang="EnglishUnitedStates">102.00&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1866" l="17" t="1834" r="60" b="1867"><formatting lang="EnglishUnitedStates">35&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="63">
+<text>
+<par align="Justified" startIndent="1200" lineSpacing="1090">
+<line baseline="1866" l="369" t="1835" r="473" b="1874"><formatting lang="EnglishUnitedStates">7,700&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1867" l="499" t="1835" r="554" b="1867"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="1865" l="579" t="1833" r="1385" b="1874"><formatting lang="EnglishUnitedStates">8.8 DIN933 HEX BOLT M24 X 75 (2660KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="63">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="1863" l="1764" t="1831" r="1948" b="1864"><formatting lang="EnglishUnitedStates">62.80/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="63">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1862" l="2111" t="1827" r="2272" b="1870"><formatting lang="EnglishUnitedStates">4,835.60&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1927" l="16" t="1895" r="60" b="1927"><formatting lang="EnglishUnitedStates">36&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="63">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1927" l="348" t="1896" r="473" b="1935"><formatting lang="EnglishUnitedStates">18,000&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1928" l="499" t="1896" r="554" b="1928"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="1927" l="578" t="1894" r="1388" b="1936"><formatting lang="EnglishUnitedStates">CL8-DIN934 HDG HEX NUT M6-1.0 (36KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="63">
+<text>
+<par align="Justified" startIndent="3300" lineSpacing="1090">
+<line baseline="1925" l="1789" t="1893" r="1948" b="1926"><formatting lang="EnglishUnitedStates">1.27/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="63">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1925" l="2146" t="1892" r="2272" b="1925"><formatting lang="EnglishUnitedStates">228.60&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1991" l="16" t="1959" r="59" b="1991"><formatting lang="EnglishUnitedStates">37&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="62">
+<text>
+<par align="Justified" startIndent="1200" lineSpacing="1090">
+<line baseline="1991" l="368" t="1959" r="472" b="1998"><formatting lang="EnglishUnitedStates">3,200&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="1991" l="498" t="1959" r="553" b="1991"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="1991" l="579" t="1958" r="1156" b="1999"><formatting lang="EnglishUnitedStates">M16 SS316 CAP NUT (186KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="62">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="1989" l="1763" t="1957" r="1948" b="1989"><formatting lang="EnglishUnitedStates">70.60/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="62">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="1988" l="2110" t="1956" r="2271" b="1995"><formatting lang="EnglishUnitedStates">2,259.20&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2053" l="16" t="2021" r="59" b="2053"><formatting lang="EnglishUnitedStates">38&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="63">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="2053" l="405" t="2021" r="472" b="2053"><formatting lang="EnglishUnitedStates">100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2053" l="499" t="2021" r="554" b="2053"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="2052" l="578" t="2019" r="1371" b="2060"><formatting lang="EnglishUnitedStates">CL10-DIN934 HEX NUT M16-P1.5 (2.5KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="63">
+<text>
+<par align="Justified" startIndent="3300" lineSpacing="1090">
+<line baseline="2051" l="1787" t="2018" r="1948" b="2051"><formatting lang="EnglishUnitedStates">6.00/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="63">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="2050" l="2192" t="2017" r="2272" b="2050"><formatting lang="EnglishUnitedStates">6.00&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2116" l="15" t="2084" r="59" b="2116"><formatting lang="EnglishUnitedStates">39&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="63">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="63">
+<text>
+<par align="Justified" startIndent="2600" lineSpacing="1090">
+<line baseline="2117" l="426" t="2084" r="472" b="2117"><formatting lang="EnglishUnitedStates">24&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="63">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2117" l="498" t="2084" r="553" b="2117"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="63">
+<text>
+<par lineSpacing="1090">
+<line baseline="2116" l="578" t="2083" r="1145" b="2124"><formatting lang="EnglishUnitedStates">SS316 F/T BOLT 3/4&quot; (82KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="63">
+<text>
+<par align="Justified" startIndent="1300" lineSpacing="1090">
+<line baseline="2114" l="1707" t="2082" r="1948" b="2121"><formatting lang="EnglishUnitedStates">1,935.00/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="63">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="2113" l="2146" t="2080" r="2272" b="2113"><formatting lang="EnglishUnitedStates">464.40&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2178" l="15" t="2146" r="59" b="2178"><formatting lang="EnglishUnitedStates">40&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="62">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="62">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="2178" l="452" t="2146" r="474" b="2178"><formatting lang="EnglishUnitedStates">4&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="62">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2178" l="500" t="2146" r="550" b="2178"><formatting lang="EnglishUnitedStates">LG&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="62">
+<text>
+<par lineSpacing="1090">
+<line baseline="2177" l="578" t="2145" r="1141" b="2186"><formatting lang="EnglishUnitedStates">SS316 F/T BOLT M36 (35KG)&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="62">
+<text>
+<par align="Justified" startIndent="1300" lineSpacing="1090">
+<line baseline="2175" l="1706" t="2143" r="1948" b="2183"><formatting lang="EnglishUnitedStates">8,852.60/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="62">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="2174" l="2146" t="2142" r="2272" b="2175"><formatting lang="EnglishUnitedStates">354.10&#xA;</formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="85" height="181">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2242" l="15" t="2210" r="52" b="2242"><formatting lang="EnglishUnitedStates">41&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="218" height="181">
+<text>
+<par lineSpacing="1090"></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="172" height="181">
+<text>
+<par align="Justified" startIndent="2100" lineSpacing="1090">
+<line baseline="2242" l="403" t="2210" r="472" b="2242"><formatting lang="EnglishUnitedStates">500&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="81" height="181">
+<text>
+<par align="Justified" lineSpacing="1090">
+<line baseline="2242" l="498" t="2209" r="553" b="2242"><formatting lang="EnglishUnitedStates">PC&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="1081" height="181">
+<text>
+<par lineSpacing="1512">
+<line baseline="2241" l="580" t="2208" r="1329" b="2249"><formatting lang="EnglishUnitedStates">1/4 X 1-1/2&quot; SS U-BOLT/ 2NUT (17KGS)</formatting></line>
+<line baseline="2303" l="580" t="2270" r="913" b="2304"><formatting lang="EnglishUnitedStates">PO No: PO46899&#xA;</formatting></line></par>
+<par lineSpacing="1512">
+<line baseline="2367" l="576" t="2334" r="1307" b="2368"><formatting lang="EnglishUnitedStates">TOTAL: 159CTNS+6BUNDLES+1BOX&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="383" height="181">
+<text>
+<par align="Justified" startIndent="2400" lineSpacing="1090">
+<line baseline="2239" l="1764" t="2207" r="1949" b="2240"><formatting lang="EnglishUnitedStates">27.80/100&#xA;</formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="261" height="181">
+<text>
+<par align="Right" lineSpacing="1090">
+<line baseline="2238" l="2148" t="2205" r="2273" b="2238"><formatting lang="EnglishUnitedStates">139.00&#xA;</formatting></line></par>
+</text></cell></row>
+</block>
+<block blockType="Picture" blockName="" l="997" t="2712" r="1145" b="2807"><region><rect l="997" t="2712" r="1145" b="2807"/></region>
+</block>
+<block blockType="Text" blockName="" l="1647" t="2786" r="1915" b="2831"><region><rect l="1647" t="2786" r="1915" b="2831"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="2825" l="1653" t="2792" r="1909" b="2825"><formatting lang="EnglishUnitedStates">Sales Amount&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2086" t="2785" r="2281" b="2837"><region><rect l="2086" t="2785" r="2281" b="2837"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="2824" l="2092" t="2791" r="2275" b="2831"><formatting lang="EnglishUnitedStates">13,440.93&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1647" t="2887" r="1889" b="2933"><region><rect l="1647" t="2887" r="1889" b="2933"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="2926" l="1653" t="2893" r="1883" b="2927"><formatting lang="EnglishUnitedStates">Amount Due&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2087" t="2887" r="2281" b="2938"><region><rect l="2087" t="2887" r="2281" b="2938"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="2926" l="2093" t="2893" r="2275" b="2932"><formatting lang="EnglishUnitedStates">13,440.93&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="3" t="3065" r="684" b="3160"><region><rect l="3" t="3065" r="684" b="3160"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="3103" l="9" t="3071" r="678" b="3104"><formatting lang="EnglishUnitedStates">COMPUTER PRINTED DOCUMENT&#xA;</formatting></line></par>
+<par lineSpacing="1090">
+<line baseline="3152" l="9" t="3120" r="541" b="3154"><formatting lang="EnglishUnitedStates">MO SIGNATURE REQUIRED&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="1660" t="3161" r="2002" b="3218"><region><rect l="1660" t="3161" r="2002" b="3218"/></region>
+<text>
+<par align="Justified" lineSpacing="1380">
+<line baseline="3203" l="1852" t="3167" r="1996" b="3191"><formatting lang="EnglishUnitedStates">20/02/2019&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="2079" t="3161" r="2228" b="3198"><region><rect l="2079" t="3161" r="2228" b="3198"/></region>
+<text>
+<par align="Right" lineSpacing="750">
+<line baseline="3190" l="2085" t="3167" r="2222" b="3190"><formatting lang="EnglishUnitedStates">1:50:58PM&#xA;</formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="" l="8" t="3188" r="650" b="3195"><region><rect l="8" t="3188" r="650" b="3195"/></region>
+<separator type="Black" thickness="7"><start x="8" y="3191"/><end x="650" y="3191"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1746" t="968" r="2090" b="974"><region><rect l="1746" t="968" r="2090" b="974"/></region>
+<separator type="Dotted" thickness="4"><start x="1746" y="971"/><end x="2090" y="971"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="2146" t="968" r="2200" b="972"><region><rect l="2146" t="968" r="2200" b="972"/></region>
+<separator type="Dotted" thickness="4"><start x="2146" y="970"/><end x="2200" y="970"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="24" t="972" r="536" b="978"><region><rect l="24" t="972" r="536" b="978"/></region>
+<separator type="Dotted" thickness="4"><start x="24" y="975"/><end x="536" y="975"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="630" t="972" r="886" b="976"><region><rect l="630" t="972" r="886" b="976"/></region>
+<separator type="Dotted" thickness="4"><start x="630" y="974"/><end x="886" y="974"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1120" t="972" r="1256" b="976"><region><rect l="1120" t="972" r="1256" b="976"/></region>
+<separator type="Dotted" thickness="4"><start x="1120" y="974"/><end x="1256" y="974"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1408" t="972" r="1474" b="976"><region><rect l="1408" t="972" r="1474" b="976"/></region>
+<separator type="Dotted" thickness="4"><start x="1408" y="974"/><end x="1474" y="974"/>
+</separator>
+</block>
+</page>
+</document>
